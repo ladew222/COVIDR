@@ -277,5 +277,62 @@ ga_data_new %>%
   group_by(date) %>% 
   do(Create_files(.))
 
+###
+
+### google data
+ga_data <- read.csv("./data/Global_Mobility_Report.csv", as.is=TRUE)
+library(purrr)
+library(stringr)
+library(reshape2)
+library(dplyr)
+library(stringr)
+
+CreateFips = function() {
+  for (row in 1:nrow(ga_data2)) {
+    state <- ga_data2[row, "state"]
+    county <- ga_data2[row, "county"]
+    newdata <- fips_ma[ which(fips_ma$state_name==state & str_detect(fips_ma$county_name, county)), ]
+    # newdata <- subset(fips_ma, state_name == state & county_name ==county, select=c(fips))
+    if (NROW(newdata) > 0) {
+      if (row %% 100 == 0){
+        print(paste("Row:", row));
+      }
+       #print(paste("Puttings:", ga_data[row,], " ::", newdata$fips))
+      ga_data2[row,'fips']=newdata[1,1]
+    } else {
+    }
+  }
+}
+
+##
+library(purrr)
+library(stringr)
+library(reshape2)
+library(dplyr)
+library(stringr)
+######################
+## Start excuation here
+######################
+ga_data <- read.csv("./data/Global_Mobility_Report.csv", as.is=TRUE)
+ga_data2<-ga_data[ga_data$country_region_code == 'US', ]
+ga_data2<- rename(ga_data2, c("sub_region_1"="state", "sub_region_2"="county"))
+ga_data2$fips<-NA
+stopwords = c("County","county","Parish","parish")
+ga_data2$county <- gsub(paste0(stopwords,collapse = "|"),"", ga_data2$county)
+ga_data2$county <- trimws(ga_data2$county)
+CreateFips() #function now work run manually
+##full data now has
+full_data<-ga_data2[complete.cases(ga_data2), ]
+full_data<-full_data[!(is.na(full_data$county) | full_data$county==""), ]
+# Split dataframe by city
+split_df <- split(full_data, list(full_data$date))
+#write.csv(ga_data2,paste0("",unique(ga_data2$date),".csv"),row.names=FALSE)
+# Write out separate CSV for each city
+for (date in names(split_df)) {
+  write.csv(split_df[[date]], paste0("./Data/ga/",date, ".csv"))
+}
+
+
+
 
 
