@@ -1,0 +1,328 @@
+fips,county_name,state_abbr,state_name,long_name,sumlev,region,division,state,county,crosswalk,region_name,division_name,id,County_Name,State_Name,Confirmed,New,Death,Fatality_Rate,Last_Update,Latitude,Longitude
+53033,King County,WA,Washington,King County WA,50,4,9,53,33,4-9-53-33,West,Pacific,05000US53033,King,Washington,328,,32,0.0975610,2020-03-14 12:04 EDT,47.4901181,-121.8043324
+53061,Snohomish County,WA,Washington,Snohomish County WA,50,4,9,53,61,4-9-53-61,West,Pacific,05000US53061,Snohomish,Washington,133,,4,0.0300752,2020-03-14 12:04 EDT,47.9124000,-122.0930600
+53053,Pierce County,WA,Washington,Pierce County WA,50,4,9,53,53,4-9-53-53,West,Pacific,05000US53053,Pierce,Washington,19,,0,0.0000000,2020-03-14 12:04 EDT,47.0227081,-122.1014408
+53011,Clark County,WA,Washington,Clark County WA,50,4,9,53,11,4-9-53-11,West,Pacific,05000US53011,Clark,Washington,3,,0,0.0000000,2020-03-14 12:04 EDT,45.7818733,-122.4812785
+53037,Kittitas County,WA,Washington,Kittitas County WA,50,4,9,53,37,4-9-53-37,West,Pacific,05000US53037,Kittitas,Washington,3,,0,0.0000000,2020-03-14 12:04 EDT,46.9847200,-120.4175200
+53035,Kitsap County,WA,Washington,Kitsap County WA,50,4,9,53,35,4-9-53-35,West,Pacific,05000US53035,Kitsap,Washington,3,,0,0.0000000,2020-03-14 12:04 EDT,47.4749622,-122.6085325
+53057,Skagit County,WA,Washington,Skagit County WA,50,4,9,53,57,4-9-53-57,West,Pacific,05000US53057,Skagit,Washington,3,,0,0.0000000,2020-03-14 12:04 EDT,48.4793302,-121.7280802
+53029,Island County,WA,Washington,Island County WA,50,4,9,53,29,4-9-53-29,West,Pacific,05000US53029,Island,Washington,3,,0,0.0000000,2020-03-14 12:04 EDT,48.1916094,-122.6650075
+53073,Whatcom County,WA,Washington,Whatcom County WA,50,4,9,53,73,4-9-53-73,West,Pacific,05000US53073,Whatcom,Washington,2,,0,0.0000000,2020-03-14 12:04 EDT,48.8255970,-121.7174182
+53077,Yakima County,WA,Washington,Yakima County WA,50,4,9,53,77,4-9-53-77,West,Pacific,05000US53077,Yakima,Washington,2,,0,0.0000000,2020-03-14 12:04 EDT,46.6044800,-120.5072100
+53025,Grant County,WA,Washington,Grant County WA,50,4,9,53,25,4-9-53-25,West,Pacific,05000US53025,Grant,Washington,1,,1,1.0000000,2020-03-14 12:04 EDT,47.1988579,-119.4525987
+53031,Jefferson County,WA,Washington,Jefferson County WA,50,4,9,53,31,4-9-53-31,West,Pacific,05000US53031,Jefferson,Washington,1,,0,0.0000000,2020-03-14 12:04 EDT,47.7481061,-123.6000095
+53067,Thurston County,WA,Washington,Thurston County WA,50,4,9,53,67,4-9-53-67,West,Pacific,05000US53067,Thurston,Washington,1,,0,0.0000000,2020-03-14 12:04 EDT,46.9198058,-122.8298691
+53027,Grays Harbor County,WA,Washington,Grays Harbor County WA,50,4,9,53,27,4-9-53-27,West,Pacific,05000US53027,Grays Harbor,Washington,1,,0,0.0000000,2020-03-14 12:04 EDT,47.1505523,-123.7737432
+53013,Columbia County,WA,Washington,Columbia County WA,50,4,9,53,13,4-9-53-13,West,Pacific,05000US53013,Columbia,Washington,1,,0,0.0000000,2020-03-14 12:04 EDT,46.2975768,-117.9078634
+36119,Westchester County,NY,New York,Westchester County NY,50,1,2,36,119,1-2-36-119,Northeast,Middle Atlantic,05000US36119,Westchester,New York,158,,0,0.0000000,2020-03-14 12:04 EDT,41.1631976,-73.7560629
+36061,New York County,NY,New York,New York County NY,50,1,2,36,61,1-2-36-61,Northeast,Middle Atlantic,05000US36061,New York,New York,154,,1,0.0064935,2020-03-14 12:04 EDT,40.7145500,-74.0071400
+36059,Nassau County,NY,New York,Nassau County NY,50,1,2,36,59,1-2-36-59,Northeast,Middle Atlantic,05000US36059,Nassau,New York,51,,0,0.0000000,2020-03-14 12:04 EDT,40.7416523,-73.5889962
+36103,Suffolk County,NY,New York,Suffolk County NY,50,1,2,36,103,1-2-36-103,Northeast,Middle Atlantic,05000US36103,Suffolk,New York,28,,0,0.0000000,2020-03-14 12:04 EDT,40.8773281,-72.8589804
+36087,Rockland County,NY,New York,Rockland County NY,50,1,2,36,87,1-2-36-87,Northeast,Middle Atlantic,05000US36087,Rockland,New York,9,,0,0.0000000,2020-03-14 12:04 EDT,41.1523740,-74.0240103
+36111,Ulster County,NY,New York,Ulster County NY,50,1,2,36,111,1-2-36-111,Northeast,Middle Atlantic,05000US36111,Ulster,New York,5,,0,0.0000000,2020-03-14 12:04 EDT,41.9598600,-73.9903300
+36001,Albany County,NY,New York,Albany County NY,50,1,2,36,1,1-2-36-1,Northeast,Middle Atlantic,05000US36001,Albany,New York,4,,0,0.0000000,2020-03-14 12:04 EDT,42.6515500,-73.7552100
+36091,Saratoga County,NY,New York,Saratoga County NY,50,1,2,36,91,1-2-36-91,Northeast,Middle Atlantic,05000US36091,Saratoga,New York,3,,0,0.0000000,2020-03-14 12:04 EDT,43.0697400,-73.6366100
+36071,Orange County,NY,New York,Orange County NY,50,1,2,36,71,1-2-36-71,Northeast,Middle Atlantic,05000US36071,Orange,New York,3,,0,0.0000000,2020-03-14 12:04 EDT,41.4020682,-74.3055957
+36027,Dutchess County,NY,New York,Dutchess County NY,50,1,2,36,27,1-2-36-27,Northeast,Middle Atlantic,05000US36027,Dutchess,New York,3,,0,0.0000000,2020-03-14 12:04 EDT,41.7647751,-73.7428168
+36055,Monroe County,NY,New York,Monroe County NY,50,1,2,36,55,1-2-36-55,Northeast,Middle Atlantic,05000US36055,Monroe,New York,2,,0,0.0000000,2020-03-14 12:04 EDT,43.1460428,-77.6967491
+36025,Delaware County,NY,New York,Delaware County NY,50,1,2,36,25,1-2-36-25,Northeast,Middle Atlantic,05000US36025,Delaware,New York,1,,0,0.0000000,2020-03-14 12:04 EDT,42.1980433,-74.9663520
+36043,Herkimer County,NY,New York,Herkimer County NY,50,1,2,36,43,1-2-36-43,Northeast,Middle Atlantic,05000US36043,Herkimer,New York,1,,0,0.0000000,2020-03-14 12:04 EDT,43.0259000,-74.9843300
+36093,Schenectady County,NY,New York,Schenectady County NY,50,1,2,36,93,1-2-36-93,Northeast,Middle Atlantic,05000US36093,Schenectady,New York,1,,0,0.0000000,2020-03-14 12:04 EDT,42.8123800,-73.9412200
+36007,Broome County,NY,New York,Broome County NY,50,1,2,36,7,1-2-36-7,Northeast,Middle Atlantic,05000US36007,Broome,New York,1,,0,0.0000000,2020-03-14 12:04 EDT,42.1602180,-75.8196459
+6085,Santa Clara County,CA,California,Santa Clara County CA,50,4,9,6,85,4-9-6-85,West,Pacific,05000US6085,Santa Clara,California,79,,2,0.0253165,2020-03-14 12:04 EDT,37.3557900,-121.9550900
+6037,Los Angeles County,CA,California,Los Angeles County CA,50,4,9,6,37,4-9-6-37,West,Pacific,05000US6037,Los Angeles,California,40,,1,0.0250000,2020-03-14 12:04 EDT,34.0534900,-118.2453200
+6081,San Mateo County,CA,California,San Mateo County CA,50,4,9,6,81,4-9-6-81,West,Pacific,05000US6081,San Mateo,California,26,,0,0.0000000,2020-03-14 12:04 EDT,37.5470400,-122.3148500
+6013,Contra Costa County,CA,California,Contra Costa County CA,50,4,9,6,13,4-9-6-13,West,Pacific,05000US6013,Contra Costa,California,25,,0,0.0000000,2020-03-14 12:04 EDT,37.9179373,-121.9259354
+6075,San Francisco County,CA,California,San Francisco County CA,50,4,9,6,75,4-9-6-75,West,Pacific,05000US6075,San Francisco,California,23,,0,0.0000000,2020-03-14 12:04 EDT,37.7771200,-122.4196400
+6067,Sacramento County,CA,California,Sacramento County CA,50,4,9,6,67,4-9-6-67,West,Pacific,05000US6067,Sacramento,California,17,,1,0.0588235,2020-03-14 12:04 EDT,38.5794400,-121.4908500
+6059,Orange County,CA,California,Orange County CA,50,4,9,6,59,4-9-6-59,West,Pacific,05000US6059,Orange,California,13,,0,0.0000000,2020-03-14 12:04 EDT,33.7878700,-117.8507100
+6065,Riverside County,CA,California,Riverside County CA,50,4,9,6,65,4-9-6-65,West,Pacific,05000US6065,Riverside,California,12,,0,0.0000000,2020-03-14 12:04 EDT,33.9817100,-117.3740400
+6001,Alameda County,CA,California,Alameda County CA,50,4,9,6,1,4-9-6-1,West,Pacific,05000US6001,Alameda,California,11,,0,0.0000000,2020-03-14 12:04 EDT,37.7668300,-122.2453000
+6073,San Diego County,CA,California,San Diego County CA,50,4,9,6,73,4-9-6-73,West,Pacific,05000US6073,San Diego,California,8,,0,0.0000000,2020-03-14 12:04 EDT,32.7156800,-117.1617100
+6077,San Joaquin County,CA,California,San Joaquin County CA,50,4,9,6,77,4-9-6-77,West,Pacific,05000US6077,San Joaquin,California,8,,0,0.0000000,2020-03-14 12:04 EDT,37.9347956,-121.2713112
+6087,Santa Cruz County,CA,California,Santa Cruz County CA,50,4,9,6,87,4-9-6-87,West,Pacific,05000US6087,Santa Cruz,California,7,,0,0.0000000,2020-03-14 12:04 EDT,36.9742400,-122.0309800
+6095,Solano County,CA,California,Solano County CA,50,4,9,6,95,4-9-6-95,West,Pacific,05000US6095,Solano,California,6,,0,0.0000000,2020-03-14 12:04 EDT,38.2779336,-121.9272405
+6111,Ventura County,CA,California,Ventura County CA,50,4,9,6,111,4-9-6-111,West,Pacific,05000US6111,Ventura,California,5,,0,0.0000000,2020-03-14 12:04 EDT,34.2808200,-119.2923200
+6061,Placer County,CA,California,Placer County CA,50,4,9,6,61,4-9-6-61,West,Pacific,05000US6061,Placer,California,4,,1,0.2500000,2020-03-14 12:04 EDT,39.0591356,-120.7536328
+6069,San Benito County,CA,California,San Benito County CA,50,4,9,6,69,4-9-6-69,West,Pacific,05000US6069,San Benito,California,3,,0,0.0000000,2020-03-14 12:04 EDT,36.5050600,-121.0833200
+6041,Marin County,CA,California,Marin County CA,50,4,9,6,41,4-9-6-41,West,Pacific,05000US6041,Marin,California,3,,0,0.0000000,2020-03-14 12:04 EDT,38.0718873,-122.7195348
+6113,Yolo County,CA,California,Yolo County CA,50,4,9,6,113,4-9-6-113,West,Pacific,05000US6113,Yolo,California,2,,0,0.0000000,2020-03-14 12:04 EDT,38.7343100,-121.8127900
+6009,Calaveras County,CA,California,Calaveras County CA,50,4,9,6,9,4-9-6-9,West,Pacific,05000US6009,Calaveras,California,2,,0,0.0000000,2020-03-14 12:04 EDT,38.2047357,-120.5540655
+6099,Stanislaus County,CA,California,Stanislaus County CA,50,4,9,6,99,4-9-6-99,West,Pacific,05000US6099,Stanislaus,California,2,,0,0.0000000,2020-03-14 12:04 EDT,37.5593262,-120.9976619
+6107,Tulare County,CA,California,Tulare County CA,50,4,9,6,107,4-9-6-107,West,Pacific,05000US6107,Tulare,California,2,,0,0.0000000,2020-03-14 12:04 EDT,36.2064900,-119.3430500
+6025,Imperial County,CA,California,Imperial County CA,50,4,9,6,25,4-9-6-25,West,Pacific,05000US6025,Imperial,California,2,,0,0.0000000,2020-03-14 12:04 EDT,32.8474800,-115.5695200
+6023,Humboldt County,CA,California,Humboldt County CA,50,4,9,6,23,4-9-6-23,West,Pacific,05000US6023,Humboldt,California,1,,0,0.0000000,2020-03-14 12:04 EDT,40.6987980,-123.8737147
+6097,Sonoma County,CA,California,Sonoma County CA,50,4,9,6,97,4-9-6-97,West,Pacific,05000US6097,Sonoma,California,1,,0,0.0000000,2020-03-14 12:04 EDT,38.2918800,-122.4572800
+6039,Madera County,CA,California,Madera County CA,50,4,9,6,39,4-9-6-39,West,Pacific,05000US6039,Madera,California,1,,0,0.0000000,2020-03-14 12:04 EDT,36.9620500,-120.0639900
+6019,Fresno County,CA,California,Fresno County CA,50,4,9,6,19,4-9-6-19,West,Pacific,05000US6019,Fresno,California,1,,0,0.0000000,2020-03-14 12:04 EDT,36.7408400,-119.7855200
+6089,Shasta County,CA,California,Shasta County CA,50,4,9,6,89,4-9-6-89,West,Pacific,05000US6089,Shasta,California,1,,0,0.0000000,2020-03-14 12:04 EDT,40.5982800,-122.4909500
+25017,Middlesex County,MA,Massachusetts,Middlesex County MA,50,1,1,25,17,1-1-25-17,Northeast,New England,05000US25017,Middlesex,Massachusetts,60,,0,0.0000000,2020-03-14 12:04 EDT,42.4855941,-71.3917913
+25025,Suffolk County,MA,Massachusetts,Suffolk County MA,50,1,1,25,25,1-1-25-25,Northeast,New England,05000US25025,Suffolk,Massachusetts,26,,0,0.0000000,2020-03-14 12:04 EDT,42.3318916,-71.0753743
+25021,Norfolk County,MA,Massachusetts,Norfolk County MA,50,1,1,25,21,1-1-25-21,Northeast,New England,05000US25021,Norfolk,Massachusetts,24,,0,0.0000000,2020-03-14 12:04 EDT,42.1194100,-71.3308300
+25003,Berkshire County,MA,Massachusetts,Berkshire County MA,50,1,1,25,3,1-1-25-3,Northeast,New England,05000US25003,Berkshire,Massachusetts,9,,0,0.0000000,2020-03-14 12:04 EDT,42.5110500,-73.1942600
+25027,Worcester County,MA,Massachusetts,Worcester County MA,50,1,1,25,27,1-1-25-27,Northeast,New England,05000US25027,Worcester,Massachusetts,2,,0,0.0000000,2020-03-14 12:04 EDT,42.2634100,-71.8021900
+25009,Essex County,MA,Massachusetts,Essex County MA,50,1,1,25,9,1-1-25-9,Northeast,New England,05000US25009,Essex,Massachusetts,2,,0,0.0000000,2020-03-14 12:04 EDT,42.6325100,-70.7811300
+8037,Eagle County,CO,Colorado,Eagle County CO,50,4,8,8,37,4-8-8-37,West,Mountain,05000US8037,Eagle,Colorado,16,,0,0.0000000,2020-03-14 12:04 EDT,39.6556500,-106.8278800
+8031,Denver County,CO,Colorado,Denver County CO,50,4,8,8,31,4-8-8-31,West,Mountain,05000US8031,Denver,Colorado,15,,0,0.0000000,2020-03-14 12:04 EDT,39.7400100,-104.9920200
+8097,Pitkin County,CO,Colorado,Pitkin County CO,50,4,8,8,97,4-8-8-97,West,Mountain,05000US8097,Pitkin,Colorado,10,,0,0.0000000,2020-03-14 12:04 EDT,39.2171252,-106.9167355
+8005,Arapahoe County,CO,Colorado,Arapahoe County CO,50,4,8,8,5,4-8-8-5,West,Mountain,05000US8005,Arapahoe,Colorado,7,,0,0.0000000,2020-03-14 12:04 EDT,39.6497672,-104.3392044
+8059,Jefferson County,CO,Colorado,Jefferson County CO,50,4,8,8,59,4-8-8-59,West,Mountain,05000US8059,Jefferson,Colorado,7,,0,0.0000000,2020-03-14 12:04 EDT,39.5864316,-105.2504022
+8035,Douglas County,CO,Colorado,Douglas County CO,50,4,8,8,35,4-8-8-35,West,Mountain,05000US8035,Douglas,Colorado,4,,0,0.0000000,2020-03-14 12:04 EDT,39.3296664,-104.9295706
+8051,Gunnison County,CO,Colorado,Gunnison County CO,50,4,8,8,51,4-8-8-51,West,Mountain,05000US8051,Gunnison,Colorado,4,,0,0.0000000,2020-03-14 12:04 EDT,38.5452600,-106.9269200
+8001,Adams County,CO,Colorado,Adams County CO,50,4,8,8,1,4-8-8-1,West,Mountain,05000US8001,Adams,Colorado,3,,0,0.0000000,2020-03-14 12:04 EDT,39.8737591,-104.3366349
+8117,Summit County,CO,Colorado,Summit County CO,50,4,8,8,117,4-8-8-117,West,Mountain,05000US8117,Summit,Colorado,2,,0,0.0000000,2020-03-14 12:04 EDT,39.6341694,-106.1163607
+8041,El Paso County,CO,Colorado,El Paso County CO,50,4,8,8,41,4-8-8-41,West,Mountain,05000US8041,El Paso,Colorado,2,,1,0.5000000,2020-03-14 12:04 EDT,38.8321269,-104.5255141
+8123,Weld County,CO,Colorado,Weld County CO,50,4,8,8,123,4-8-8-123,West,Mountain,05000US8123,Weld,Colorado,2,,0,0.0000000,2020-03-14 12:04 EDT,40.5547727,-104.3924353
+8069,Larimer County,CO,Colorado,Larimer County CO,50,4,8,8,69,4-8-8-69,West,Mountain,05000US8069,Larimer,Colorado,1,,0,0.0000000,2020-03-14 12:04 EDT,40.6664525,-105.4609363
+8101,Pueblo County,CO,Colorado,Pueblo County CO,50,4,8,8,101,4-8-8-101,West,Mountain,05000US8101,Pueblo,Colorado,1,,0,0.0000000,2020-03-14 12:04 EDT,38.2637500,-104.6125200
+8107,Routt County,CO,Colorado,Routt County CO,50,4,8,8,107,4-8-8-107,West,Mountain,05000US8107,Routt,Colorado,1,,0,0.0000000,2020-03-14 12:04 EDT,40.4849979,-106.9912189
+12011,Broward County,FL,Florida,Broward County FL,50,3,5,12,11,3-5-12-11,South,South Atlantic,05000US12011,Broward,Florida,19,,0,0.0000000,2020-03-14 12:04 EDT,26.1522454,-80.4870534
+12086,Miami-Dade County,FL,Florida,Miami-Dade County FL,50,3,5,12,86,3-5-12-86,South,South Atlantic,05000US12086,Miami-Dade,Florida,8,,0,0.0000000,2020-03-14 12:04 EDT,25.6141821,-80.5679083
+12099,Palm Beach County,FL,Florida,Palm Beach County FL,50,3,5,12,99,3-5-12-99,South,South Atlantic,05000US12099,Palm Beach,Florida,5,,0,0.0000000,2020-03-14 12:04 EDT,26.7028800,-80.0366100
+12081,Manatee County,FL,Florida,Manatee County FL,50,3,5,12,81,3-5-12-81,South,South Atlantic,05000US12081,Manatee,Florida,4,,0,0.0000000,2020-03-14 12:04 EDT,27.4964300,-82.5395400
+12071,Lee County,FL,Florida,Lee County FL,50,3,5,12,71,3-5-12-71,South,South Atlantic,05000US12071,Lee,Florida,4,,1,0.2500000,2020-03-14 12:04 EDT,26.5796516,-81.8246853
+12127,Volusia County,FL,Florida,Volusia County FL,50,3,5,12,127,3-5-12-127,South,South Atlantic,05000US12127,Volusia,Florida,4,,0,0.0000000,2020-03-14 12:04 EDT,29.1693400,-81.5225100
+12057,Hillsborough County,FL,Florida,Hillsborough County FL,50,3,5,12,57,3-5-12-57,South,South Atlantic,05000US12057,Hillsborough,Florida,3,,0,0.0000000,2020-03-14 12:04 EDT,27.9302310,-82.3078553
+12001,Alachua County,FL,Florida,Alachua County FL,50,3,5,12,1,3-5-12-1,South,South Atlantic,05000US12001,Alachua,Florida,3,,0,0.0000000,2020-03-14 12:04 EDT,29.7930900,-82.4942800
+12021,Collier County,FL,Florida,Collier County FL,50,3,5,12,21,3-5-12-21,South,South Atlantic,05000US12021,Collier,Florida,3,,0,0.0000000,2020-03-14 12:04 EDT,26.1162556,-81.3401333
+12103,Pinellas County,FL,Florida,Pinellas County FL,50,3,5,12,103,3-5-12-103,South,South Atlantic,05000US12103,Pinellas,Florida,2,,0,0.0000000,2020-03-14 12:04 EDT,27.9313392,-82.7219403
+12115,Sarasota County,FL,Florida,Sarasota County FL,50,3,5,12,115,3-5-12-115,South,South Atlantic,05000US12115,Sarasota,Florida,2,,0,0.0000000,2020-03-14 12:04 EDT,27.3388900,-82.5388700
+12095,Orange County,FL,Florida,Orange County FL,50,3,5,12,95,3-5-12-95,South,South Atlantic,05000US12095,Orange,Florida,2,,1,0.5000000,2020-03-14 12:04 EDT,41.3314100,-74.3566700
+12113,Santa Rosa County,FL,Florida,Santa Rosa County FL,50,3,5,12,113,3-5-12-113,South,South Atlantic,05000US12113,Santa Rosa,Florida,1,,1,1.0000000,2020-03-14 12:04 EDT,30.7314761,-87.0176139
+12015,Charlotte County,FL,Florida,Charlotte County FL,50,3,5,12,15,3-5-12-15,South,South Atlantic,05000US12015,Charlotte,Florida,1,,0,0.0000000,2020-03-14 12:04 EDT,26.9084833,-81.9034392
+12091,Okaloosa County,FL,Florida,Okaloosa County FL,50,3,5,12,91,3-5-12-91,South,South Atlantic,05000US12091,Okaloosa,Florida,1,,0,0.0000000,2020-03-14 12:04 EDT,30.7070235,-86.5965082
+12089,Nassau County,FL,Florida,Nassau County FL,50,3,5,12,89,3-5-12-89,South,South Atlantic,05000US12089,Nassau,Florida,1,,0,0.0000000,2020-03-14 12:04 EDT,30.6107767,-81.8017400
+12101,Pasco County,FL,Florida,Pasco County FL,50,3,5,12,101,3-5-12-101,South,South Atlantic,05000US12101,Pasco,Florida,1,,0,0.0000000,2020-03-14 12:04 EDT,28.3245300,-82.3362400
+12109,St. Johns County,FL,Florida,St. Johns County FL,50,3,5,12,109,3-5-12-109,South,South Atlantic,05000US12109,St. Johns,Florida,1,,0,0.0000000,2020-03-14 12:04 EDT,30.1205100,-81.6253600
+12117,Seminole County,FL,Florida,Seminole County FL,50,3,5,12,117,3-5-12-117,South,South Atlantic,05000US12117,Seminole,Florida,1,,0,0.0000000,2020-03-14 12:04 EDT,28.7170014,-81.2363226
+12031,Duval County,FL,Florida,Duval County FL,50,3,5,12,31,3-5-12-31,South,South Atlantic,05000US12031,Duval,Florida,1,,0,0.0000000,2020-03-14 12:04 EDT,30.4784400,-81.6255700
+12019,Clay County,FL,Florida,Clay County FL,50,3,5,12,19,3-5-12-19,South,South Atlantic,05000US12019,Clay,Florida,1,,0,0.0000000,2020-03-14 12:04 EDT,29.9830552,-81.8577821
+12097,Osceola County,FL,Florida,Osceola County FL,50,3,5,12,97,3-5-12-97,South,South Atlantic,05000US12097,Osceola,Florida,1,,0,0.0000000,2020-03-14 12:04 EDT,28.0681258,-81.1451965
+13121,Fulton County,GA,Georgia,Fulton County GA,50,3,5,13,121,3-5-13-121,South,South Atlantic,05000US13121,Fulton,Georgia,8,,0,0.0000000,2020-03-14 12:04 EDT,33.7902407,-84.4671100
+13067,Cobb County,GA,Georgia,Cobb County GA,50,3,5,13,67,3-5-13-67,South,South Atlantic,05000US13067,Cobb,Georgia,8,,1,0.1250000,2020-03-14 12:04 EDT,33.9414802,-84.5766374
+13089,DeKalb County,GA,Georgia,DeKalb County GA,50,3,5,13,89,3-5-13-89,South,South Atlantic,05000US13089,DeKalb,Georgia,5,,0,0.0000000,2020-03-14 12:04 EDT,33.7715373,-84.2264653
+13015,Bartow County,GA,Georgia,Bartow County GA,50,3,5,13,15,3-5-13-15,South,South Atlantic,05000US13015,Bartow,Georgia,4,,0,0.0000000,2020-03-14 12:04 EDT,34.2376440,-84.8407294
+13115,Floyd County,GA,Georgia,Floyd County GA,50,3,5,13,115,3-5-13-115,South,South Atlantic,05000US13115,Floyd,Georgia,3,,0,0.0000000,2020-03-14 12:04 EDT,34.2632424,-85.2145276
+13113,Fayette County,GA,Georgia,Fayette County GA,50,3,5,13,113,3-5-13-113,South,South Atlantic,05000US13113,Fayette,Georgia,3,,0,0.0000000,2020-03-14 12:04 EDT,33.4139091,-84.4942725
+13135,Gwinnett County,GA,Georgia,Gwinnett County GA,50,3,5,13,135,3-5-13-135,South,South Atlantic,05000US13135,Gwinnett,Georgia,2,,0,0.0000000,2020-03-14 12:04 EDT,33.9611888,-84.0235873
+13129,Gordon County,GA,Georgia,Gordon County GA,50,3,5,13,129,3-5-13-129,South,South Atlantic,05000US13129,Gordon,Georgia,2,,0,0.0000000,2020-03-14 12:04 EDT,34.5031965,-84.8758788
+13233,Polk County,GA,Georgia,Polk County GA,50,3,5,13,233,3-5-13-233,South,South Atlantic,05000US13233,Polk,Georgia,1,,0,0.0000000,2020-03-14 12:04 EDT,34.0016881,-85.1881097
+13057,Cherokee County,GA,Georgia,Cherokee County GA,50,3,5,13,57,3-5-13-57,South,South Atlantic,05000US13057,Cherokee,Georgia,1,,0,0.0000000,2020-03-14 12:04 EDT,34.2439897,-84.4762441
+13049,Charlton County,GA,Georgia,Charlton County GA,50,3,5,13,49,3-5-13-49,South,South Atlantic,05000US13049,Charlton,Georgia,1,,0,0.0000000,2020-03-14 12:04 EDT,30.7817109,-82.1377648
+13185,Lowndes County,GA,Georgia,Lowndes County GA,50,3,5,13,185,3-5-13-185,South,South Atlantic,05000US13185,Lowndes,Georgia,1,,0,0.0000000,2020-03-14 12:04 EDT,30.8336283,-83.2676955
+13177,Lee County,GA,Georgia,Lee County GA,50,3,5,13,177,3-5-13-177,South,South Atlantic,05000US13177,Lee,Georgia,1,,0,0.0000000,2020-03-14 12:04 EDT,31.7795972,-84.1408802
+13039,Camden County,GA,Georgia,Camden County GA,50,3,5,13,39,3-5-13-39,South,South Atlantic,05000US13039,Camden,Georgia,1,,0,0.0000000,2020-03-14 12:04 EDT,30.9325025,-81.6711281
+13077,Coweta County,GA,Georgia,Coweta County GA,50,3,5,13,77,3-5-13-77,South,South Atlantic,05000US13077,Coweta,Georgia,1,,0,0.0000000,2020-03-14 12:04 EDT,33.3536027,-84.7633669
+22071,Orleans Parish,LA,Louisiana,Orleans Parish LA,50,3,7,22,71,3-7-22-71,South,West South Central,05000US22071,Orleans,Louisiana,26,,0,0.0000000,2020-03-14 12:04 EDT,30.0384318,-89.9005515
+22051,Jefferson Parish,LA,Louisiana,Jefferson Parish LA,50,3,7,22,51,3-7-22-51,South,West South Central,05000US22051,Jefferson parish,Louisiana,3,,0,0.0000000,2020-03-14 12:04 EDT,,
+22103,St. Tammany Parish,LA,Louisiana,St. Tammany Parish LA,50,3,7,22,103,3-7-22-103,South,West South Central,05000US22103,St. Tammany,Louisiana,2,,0,0.0000000,2020-03-14 12:04 EDT,30.3940800,-89.8950700
+22017,Caddo Parish,LA,Louisiana,Caddo Parish LA,50,3,7,22,17,3-7-22-17,South,West South Central,05000US22017,Caddo,Louisiana,1,,0,0.0000000,2020-03-14 12:04 EDT,32.7563200,-93.9737400
+22057,Lafourche Parish,LA,Louisiana,Lafourche Parish LA,50,3,7,22,57,3-7-22-57,South,West South Central,05000US22057,Lafourche Parish,Louisiana,1,,0,0.0000000,2020-03-14 12:04 EDT,,
+22087,St. Bernard Parish,LA,Louisiana,St. Bernard Parish LA,50,3,7,22,87,3-7-22-87,South,West South Central,05000US22087,St. Bernard Parish,Louisiana,1,,0,0.0000000,2020-03-14 12:04 EDT,,
+22089,St. Charles Parish,LA,Louisiana,St. Charles Parish LA,50,3,7,22,89,3-7-22-89,South,West South Central,05000US22089,St. Charles Parish,Louisiana,1,,0,0.0000000,2020-03-14 12:04 EDT,,
+22109,Terrebonne Parish,LA,Louisiana,Terrebonne Parish LA,50,3,7,22,109,3-7-22-109,South,West South Central,05000US22109,Terrebonne Parish,Louisiana,1,,0,0.0000000,2020-03-14 12:04 EDT,,
+48201,Harris County,TX,Texas,Harris County TX,50,3,7,48,201,3-7-48-201,South,West South Central,05000US48201,Harris,Texas,10,,0,0.0000000,2020-03-14 12:04 EDT,29.8576280,-95.3931114
+48157,Fort Bend County,TX,Texas,Fort Bend County TX,50,3,7,48,157,3-7-48-157,South,West South Central,05000US48157,Fort Bend,Texas,9,,0,0.0000000,2020-03-14 12:04 EDT,29.5274525,-95.7706508
+48113,Dallas County,TX,Texas,Dallas County TX,50,3,7,48,113,3-7-48-113,South,West South Central,05000US48113,Dallas,Texas,9,,0,0.0000000,2020-03-14 12:04 EDT,32.7782200,-96.7951200
+48085,Collin County,TX,Texas,Collin County TX,50,3,7,48,85,3-7-48-85,South,West South Central,05000US48085,Collin,Texas,6,,0,0.0000000,2020-03-14 12:04 EDT,33.1968000,-96.8039300
+48439,Tarrant County,TX,Texas,Tarrant County TX,50,3,7,48,439,3-7-48-439,South,West South Central,05000US48439,Tarrant,Texas,3,,0,0.0000000,2020-03-14 12:04 EDT,32.8173000,-97.0765500
+48339,Montgomery County,TX,Texas,Montgomery County TX,50,3,7,48,339,3-7-48-339,South,West South Central,05000US48339,Montgomery,Texas,3,,0,0.0000000,2020-03-14 12:04 EDT,30.3886200,-95.6963300
+48453,Travis County,TX,Texas,Travis County TX,50,3,7,48,453,3-7-48-453,South,West South Central,05000US48453,Travis,Texas,3,,0,0.0000000,2020-03-14 12:04 EDT,30.3346227,-97.7821898
+48117,Deaf Smith County,TX,Texas,Deaf Smith County TX,50,3,7,48,117,3-7-48-117,South,West South Central,05000US48117,Smith,Texas,3,,0,0.0000000,2020-03-14 12:04 EDT,32.3750560,-95.2691026
+48183,Gregg County,TX,Texas,Gregg County TX,50,3,7,48,183,3-7-48-183,South,West South Central,05000US48183,Gregg,Texas,1,,0,0.0000000,2020-03-14 12:04 EDT,32.4806246,-94.8169910
+48029,Bexar County,TX,Texas,Bexar County TX,50,3,7,48,29,3-7-48-29,South,West South Central,05000US48029,Bexar,Texas,1,,0,0.0000000,2020-03-14 12:04 EDT,29.4489207,-98.5200077
+48141,El Paso County,TX,Texas,El Paso County TX,50,3,7,48,141,3-7-48-141,South,West South Central,05000US48141,El Paso,Texas,1,,0,0.0000000,2020-03-14 12:04 EDT,31.7591600,-106.4874900
+48027,Bell County,TX,Texas,Bell County TX,50,3,7,48,27,3-7-48-27,South,West South Central,05000US48027,Bell,Texas,1,,0,0.0000000,2020-03-14 12:04 EDT,31.0376588,-97.4780738
+34003,Bergen County,NJ,New Jersey,Bergen County NJ,50,1,2,34,3,1-2-34-3,Northeast,Middle Atlantic,05000US34003,Bergen,New Jersey,15,,1,0.0666667,2020-03-14 12:04 EDT,40.9594915,-74.0744420
+34025,Monmouth County,NJ,New Jersey,Monmouth County NJ,50,1,2,34,25,1-2-34-25,Northeast,Middle Atlantic,05000US34025,Monmouth,New Jersey,8,,0,0.0000000,2020-03-14 12:04 EDT,40.2600411,-74.2219463
+34023,Middlesex County,NJ,New Jersey,Middlesex County NJ,50,1,2,34,23,1-2-34-23,Northeast,Middle Atlantic,05000US34023,Middlesex,New Jersey,6,,0,0.0000000,2020-03-14 12:04 EDT,40.5793600,-74.5006700
+34017,Hudson County,NJ,New Jersey,Hudson County NJ,50,1,2,34,17,1-2-34-17,Northeast,Middle Atlantic,05000US34017,Hudson,New Jersey,4,,0,0.0000000,2020-03-14 12:04 EDT,40.7403423,-74.0741097
+34005,Burlington County,NJ,New Jersey,Burlington County NJ,50,1,2,34,5,1-2-34-5,Northeast,Middle Atlantic,05000US34005,Burlington,New Jersey,3,,0,0.0000000,2020-03-14 12:04 EDT,40.0768700,-74.8577500
+34013,Essex County,NJ,New Jersey,Essex County NJ,50,1,2,34,13,1-2-34-13,Northeast,Middle Atlantic,05000US34013,Essex,New Jersey,3,,0,0.0000000,2020-03-14 12:04 EDT,40.7877926,-74.2476006
+34027,Morris County,NJ,New Jersey,Morris County NJ,50,1,2,34,27,1-2-34-27,Northeast,Middle Atlantic,05000US34027,Morris,New Jersey,3,,0,0.0000000,2020-03-14 12:04 EDT,40.8620190,-74.5442741
+34007,Camden County,NJ,New Jersey,Camden County NJ,50,1,2,34,7,1-2-34-7,Northeast,Middle Atlantic,05000US34007,Camden,New Jersey,2,,0,0.0000000,2020-03-14 12:04 EDT,39.9452500,-75.1191300
+34031,Passaic County,NJ,New Jersey,Passaic County NJ,50,1,2,34,31,1-2-34-31,Northeast,Middle Atlantic,05000US34031,Passaic,New Jersey,2,,0,0.0000000,2020-03-14 12:04 EDT,40.8603400,-74.1237400
+34039,Union County,NJ,New Jersey,Union County NJ,50,1,2,34,39,1-2-34-39,Northeast,Middle Atlantic,05000US34039,Union,New Jersey,1,,0,0.0000000,2020-03-14 12:04 EDT,40.6963500,-74.2695700
+34035,Somerset County,NJ,New Jersey,Somerset County NJ,50,1,2,34,35,1-2-34-35,Northeast,Middle Atlantic,05000US34035,Somerset,New Jersey,1,,0,0.0000000,2020-03-14 12:04 EDT,40.4985900,-74.5224900
+34029,Ocean County,NJ,New Jersey,Ocean County NJ,50,1,2,34,29,1-2-34-29,Northeast,Middle Atlantic,05000US34029,Ocean,New Jersey,1,,0,0.0000000,2020-03-14 12:04 EDT,39.9092743,-74.2969653
+34021,Mercer County,NJ,New Jersey,Mercer County NJ,50,1,2,34,21,1-2-34-21,Northeast,Middle Atlantic,05000US34021,Mercer,New Jersey,1,,0,0.0000000,2020-03-14 12:04 EDT,40.2833191,-74.7015737
+17031,Cook County,IL,Illinois,Cook County IL,50,2,3,17,31,2-3-17-31,Midwest,East North Central,05000US17031,Cook,Illinois,40,,0,0.0000000,2020-03-14 12:04 EDT,41.8401493,-87.8168232
+17089,Kane County,IL,Illinois,Kane County IL,50,2,3,17,89,2-3-17-89,Midwest,East North Central,05000US17089,Kane,Illinois,2,,0,0.0000000,2020-03-14 12:04 EDT,41.9388756,-88.4286393
+17111,McHenry County,IL,Illinois,McHenry County IL,50,2,3,17,111,2-3-17-111,Midwest,East North Central,05000US17111,McHenry,Illinois,2,,0,0.0000000,2020-03-14 12:04 EDT,42.3262100,-88.2673100
+17097,Lake County,IL,Illinois,Lake County IL,50,2,3,17,97,2-3-17-97,Midwest,East North Central,05000US17097,Lake,Illinois,2,,0,0.0000000,2020-03-14 12:04 EDT,42.3232765,-88.0035345
+42091,Montgomery County,PA,Pennsylvania,Montgomery County PA,50,1,2,42,91,1-2-42-91,Northeast,Middle Atlantic,05000US42091,Montgomery,Pennsylvania,18,,0,0.0000000,2020-03-14 12:04 EDT,40.2108942,-75.3673638
+42045,Delaware County,PA,Pennsylvania,Delaware County PA,50,1,2,42,45,1-2-42-45,Northeast,Middle Atlantic,05000US42045,Delaware,Pennsylvania,6,,0,0.0000000,2020-03-14 12:04 EDT,39.9167251,-75.3989856
+42089,Monroe County,PA,Pennsylvania,Monroe County PA,50,1,2,42,89,1-2-42-89,Northeast,Middle Atlantic,05000US42089,Monroe,Pennsylvania,3,,0,0.0000000,2020-03-14 12:04 EDT,41.0581159,-75.3393979
+42101,Philadelphia County,PA,Pennsylvania,Philadelphia County PA,50,1,2,42,101,1-2-42-101,Northeast,Middle Atlantic,05000US42101,Philadelphia,Pennsylvania,3,,0,0.0000000,2020-03-14 12:04 EDT,39.9522200,-75.1621800
+42017,Bucks County,PA,Pennsylvania,Bucks County PA,50,1,2,42,17,1-2-42-17,Northeast,Middle Atlantic,05000US42017,Bucks,Pennsylvania,3,,0,0.0000000,2020-03-14 12:04 EDT,40.3369404,-75.1067941
+42041,Cumberland County,PA,Pennsylvania,Cumberland County PA,50,1,2,42,41,1-2-42-41,Northeast,Middle Atlantic,05000US42041,Cumberland,Pennsylvania,3,,0,0.0000000,2020-03-14 12:04 EDT,40.1636766,-77.2653807
+42127,Wayne County,PA,Pennsylvania,Wayne County PA,50,1,2,42,127,1-2-42-127,Northeast,Middle Atlantic,05000US42127,Wayne,Pennsylvania,1,,0,0.0000000,2020-03-14 12:04 EDT,41.6487880,-75.3032486
+42095,Northampton County,PA,Pennsylvania,Northampton County PA,50,1,2,42,95,1-2-42-95,Northeast,Middle Atlantic,05000US42095,Northampton,Pennsylvania,1,,0,0.0000000,2020-03-14 12:04 EDT,40.6836000,-75.4910800
+42103,Pike County,PA,Pennsylvania,Pike County PA,50,1,2,42,103,1-2-42-103,Northeast,Middle Atlantic,05000US42103,Pike,Pennsylvania,1,,0,0.0000000,2020-03-14 12:04 EDT,41.3320250,-75.0338235
+42029,Chester County,PA,Pennsylvania,Chester County PA,50,1,2,42,29,1-2-42-29,Northeast,Middle Atlantic,05000US42029,Chester,Pennsylvania,1,,0,0.0000000,2020-03-14 12:04 EDT,39.9732037,-75.7484515
+42125,Washington County,PA,Pennsylvania,Washington County PA,50,1,2,42,125,1-2-42-125,Northeast,Middle Atlantic,05000US42125,Washington,Pennsylvania,1,,0,0.0000000,2020-03-14 12:04 EDT,40.1675200,-80.2464800
+41067,Washington County,OR,Oregon,Washington County OR,50,4,9,41,67,4-9-41-67,West,Pacific,05000US41067,Washington,Oregon,10,,0,0.0000000,2020-03-14 12:04 EDT,45.5600596,-123.0984080
+41043,Linn County,OR,Oregon,Linn County OR,50,4,9,41,43,4-9-41-43,West,Pacific,05000US41043,Linn,Oregon,8,,0,0.0000000,2020-03-14 12:04 EDT,44.4887414,-122.5343983
+41017,Deschutes County,OR,Oregon,Deschutes County OR,50,4,9,41,17,4-9-41-17,West,Pacific,05000US41017,Deschutes,Oregon,3,,0,0.0000000,2020-03-14 12:04 EDT,44.1592400,-121.2596700
+41029,Jackson County,OR,Oregon,Jackson County OR,50,4,9,41,29,4-9-41-29,West,Pacific,05000US41029,Jackson,Oregon,2,,0,0.0000000,2020-03-14 12:04 EDT,42.4321189,-122.7284862
+41059,Umatilla County,OR,Oregon,Umatilla County OR,50,4,9,41,59,4-9-41-59,West,Pacific,05000US41059,Umatilla,Oregon,2,,0,0.0000000,2020-03-14 12:04 EDT,45.9176800,-119.3420300
+41047,Marion County,OR,Oregon,Marion County OR,50,4,9,41,47,4-9-41-47,West,Pacific,05000US41047,Marion,Oregon,2,,0,0.0000000,2020-03-14 12:04 EDT,44.7504500,-122.9405200
+41035,Klamath County,OR,Oregon,Klamath County OR,50,4,9,41,35,4-9-41-35,West,Pacific,05000US41035,Klamath,Oregon,1,,0,0.0000000,2020-03-14 12:04 EDT,42.6921914,-121.6433518
+41019,Douglas County,OR,Oregon,Douglas County OR,50,4,9,41,19,4-9-41-19,West,Pacific,05000US41019,Douglas,Oregon,1,,0,0.0000000,2020-03-14 12:04 EDT,43.2797710,-123.1664872
+41051,Multnomah County,OR,Oregon,Multnomah County OR,50,4,9,41,51,4-9-41-51,West,Pacific,05000US41051,Multnomah,Oregon,1,,0,0.0000000,2020-03-14 12:04 EDT,45.4697500,-122.7056200
+41053,Polk County,OR,Oregon,Polk County OR,50,4,9,41,53,4-9-41-53,West,Pacific,05000US41053,Polk,Oregon,1,,0,0.0000000,2020-03-14 12:04 EDT,44.9037345,-123.4127777
+41005,Clackamas County,OR,Oregon,Clackamas County OR,50,4,9,41,5,4-9-41-5,West,Pacific,05000US41005,Clackamas,Oregon,1,,0,0.0000000,2020-03-14 12:04 EDT,45.4121100,-122.5690900
+51095,James City County,VA,Virginia,James City County VA,50,3,5,51,95,3-5-51-95,South,South Atlantic,05000US51095,James City,Virginia,7,,0,0.0000000,2020-03-14 12:04 EDT,37.3132739,-76.7733526
+51059,Fairfax County,VA,Virginia,Fairfax County VA,50,3,5,51,59,3-5-51-59,South,South Atlantic,05000US51059,Fairfax,Virginia,6,,0,0.0000000,2020-03-14 12:04 EDT,38.8417900,-77.3088700
+51013,Arlington County,VA,Virginia,Arlington County VA,50,3,5,51,13,3-5-51-13,South,South Atlantic,05000US51013,Arlington,Virginia,5,,0,0.0000000,2020-03-14 12:04 EDT,38.8905000,-77.0862900
+51107,Loudoun County,VA,Virginia,Loudoun County VA,50,3,5,51,107,3-5-51-107,South,South Atlantic,05000US51107,Loudoun,Virginia,3,,0,0.0000000,2020-03-14 12:04 EDT,39.0906991,-77.6356479
+51810,Virginia Beach city,VA,Virginia,Virginia Beach city VA,50,3,5,51,810,3-5-51-810,South,South Atlantic,05000US51810,Virginia Beach City,Virginia,2,,0,0.0000000,2020-03-14 12:04 EDT,36.7481787,-76.0574891
+51153,Prince William County,VA,Virginia,Prince William County VA,50,3,5,51,153,3-5-51-153,South,South Atlantic,05000US51153,Prince William,Virginia,2,,0,0.0000000,2020-03-14 12:04 EDT,38.7024474,-77.4800235
+51177,Spotsylvania County,VA,Virginia,Spotsylvania County VA,50,3,5,51,177,3-5-51-177,South,South Atlantic,05000US51177,Spotsylvania,Virginia,1,,0,0.0000000,2020-03-14 12:04 EDT,38.2017400,-77.5885500
+51085,Hanover County,VA,Virginia,Hanover County VA,50,3,5,51,85,3-5-51-85,South,South Atlantic,05000US51085,Hanover,Virginia,1,,0,0.0000000,2020-03-14 12:04 EDT,37.7688100,-77.3710900
+51147,Prince Edward County,VA,Virginia,Prince Edward County VA,50,3,5,51,147,3-5-51-147,South,South Atlantic,05000US51147,Prince Edward,Virginia,1,,0,0.0000000,2020-03-14 12:04 EDT,37.2242974,-78.4410565
+51510,Alexandria city,VA,Virginia,Alexandria city VA,50,3,5,51,510,3-5-51-510,South,South Atlantic,05000US51510,Alexandria City,Virginia,1,,0,0.0000000,2020-03-14 12:04 EDT,38.8183862,-77.0862296
+51660,Harrisonburg city,VA,Virginia,Harrisonburg city VA,50,3,5,51,660,3-5-51-660,South,South Atlantic,05000US51660,Harrisonburg,Virginia,1,,0,0.0000000,2020-03-14 12:04 EDT,38.4516300,-78.8697000
+51041,Chesterfield County,VA,Virginia,Chesterfield County VA,50,3,5,51,41,3-5-51-41,South,South Atlantic,05000US51041,Chesterfield,Virginia,1,,0,0.0000000,2020-03-14 12:04 EDT,37.3775600,-77.5081700
+47037,Davidson County,TN,Tennessee,Davidson County TN,50,3,6,47,37,3-6-47-37,South,East South Central,05000US47037,Davidson,Tennessee,13,,0,0.0000000,2020-03-14 12:04 EDT,36.1695608,-86.7847568
+47187,Williamson County,TN,Tennessee,Williamson County TN,50,3,6,47,187,3-6-47-187,South,East South Central,05000US47187,Williamson,Tennessee,9,,0,0.0000000,2020-03-14 12:04 EDT,35.8938267,-86.8986396
+47157,Shelby County,TN,Tennessee,Shelby County TN,50,3,6,47,157,3-6-47-157,South,East South Central,05000US47157,Shelby,Tennessee,2,,0,0.0000000,2020-03-14 12:04 EDT,35.1269000,-89.9253000
+47163,Sullivan County,TN,Tennessee,Sullivan County TN,50,3,6,47,163,3-6-47-163,South,East South Central,05000US47163,Sullivan,Tennessee,1,,0,0.0000000,2020-03-14 12:04 EDT,36.5128018,-82.3044950
+47093,Knox County,TN,Tennessee,Knox County TN,50,3,6,47,93,3-6-47-93,South,East South Central,05000US47093,Knox,Tennessee,1,,0,0.0000000,2020-03-14 12:04 EDT,35.9956069,-83.9346520
+47065,Hamilton County,TN,Tennessee,Hamilton County TN,50,3,6,47,65,3-6-47-65,South,East South Central,05000US47065,Hamilton,Tennessee,1,,0,0.0000000,2020-03-14 12:04 EDT,35.1793204,-85.1668414
+47089,Jefferson County,TN,Tennessee,Jefferson County TN,50,3,6,47,89,3-6-47-89,South,East South Central,05000US47089,Jefferson,Tennessee,1,,0,0.0000000,2020-03-14 12:04 EDT,36.0571754,-83.4517945
+47149,Rutherford County,TN,Tennessee,Rutherford County TN,50,3,6,47,149,3-6-47-149,South,East South Central,05000US47149,Rutherford,Tennessee,1,,0,0.0000000,2020-03-14 12:04 EDT,35.8427433,-86.4167525
+47013,Campbell County,TN,Tennessee,Campbell County TN,50,3,6,47,13,3-6-47-13,South,East South Central,05000US47013,Campbell,Tennessee,1,,0,0.0000000,2020-03-14 12:04 EDT,36.4034563,-84.1493609
+24033,Prince George's County,MD,Maryland,Prince George's County MD,50,3,5,24,33,3-5-24-33,South,South Atlantic,05000US24033,Prince George's,Maryland,7,,0,0.0000000,2020-03-14 12:04 EDT,38.8283862,-76.8458707
+24031,Montgomery County,MD,Maryland,Montgomery County MD,50,3,5,24,31,3-5-24-31,South,South Atlantic,05000US24031,Montgomery,Maryland,6,,0,0.0000000,2020-03-14 12:04 EDT,39.1363682,-77.2040317
+24005,Baltimore County,MD,Maryland,Baltimore County MD,50,3,5,24,5,3-5-24-5,South,South Atlantic,05000US24005,Baltimore,Maryland,2,,0,0.0000000,2020-03-14 12:04 EDT,39.2905800,-76.6092600
+24025,Harford County,MD,Maryland,Harford County MD,50,3,5,24,25,3-5-24-25,South,South Atlantic,05000US24025,Harford,Maryland,1,,0,0.0000000,2020-03-14 12:04 EDT,39.5544404,-76.3158396
+24017,Charles County,MD,Maryland,Charles County MD,50,3,5,24,17,3-5-24-17,South,South Atlantic,05000US24017,Charles,Maryland,1,,0,0.0000000,2020-03-14 12:04 EDT,38.4741042,-77.0128671
+24003,Anne Arundel County,MD,Maryland,Anne Arundel County MD,50,3,5,24,3,3-5-24-3,South,South Atlantic,05000US24003,Anne Arundel,Maryland,1,,0,0.0000000,2020-03-14 12:04 EDT,39.0088970,-76.6032863
+24013,Carroll County,MD,Maryland,Carroll County MD,50,3,5,24,13,3-5-24-13,South,South Atlantic,05000US24013,Carroll,Maryland,1,,0,0.0000000,2020-03-14 12:04 EDT,39.5629588,-77.0224657
+26125,Oakland County,MI,Michigan,Oakland County MI,50,2,3,26,125,2-3-26-125,Midwest,East North Central,05000US26125,Oakland,Michigan,6,,0,0.0000000,2020-03-14 12:04 EDT,42.7421400,-83.1617400
+26163,Wayne County,MI,Michigan,Wayne County MI,50,2,3,26,163,2-3-26-163,Midwest,East North Central,05000US26163,Wayne,Michigan,6,,0,0.0000000,2020-03-14 12:04 EDT,42.2851500,-83.3836000
+26081,Kent County,MI,Michigan,Kent County MI,50,2,3,26,81,2-3-26-81,Midwest,East North Central,05000US26081,Kent,Michigan,3,,0,0.0000000,2020-03-14 12:04 EDT,43.0321620,-85.5492982
+26161,Washtenaw County,MI,Michigan,Washtenaw County MI,50,2,3,26,161,2-3-26-161,Midwest,East North Central,05000US26161,Washtenaw,Michigan,3,,0,0.0000000,2020-03-14 12:04 EDT,42.2532294,-83.8387763
+26147,St. Clair County,MI,Michigan,St. Clair County MI,50,2,3,26,147,2-3-26-147,Midwest,East North Central,05000US26147,St. Clair,Michigan,1,,0,0.0000000,2020-03-14 12:04 EDT,42.8318900,-82.5022100
+26065,Ingham County,MI,Michigan,Ingham County MI,50,2,3,26,65,2-3-26-65,Midwest,East North Central,05000US26065,Ingham,Michigan,1,,0,0.0000000,2020-03-14 12:04 EDT,42.5970924,-84.3735342
+26117,Montcalm County,MI,Michigan,Montcalm County MI,50,2,3,26,117,2-3-26-117,Midwest,East North Central,05000US26117,Montcalm,Michigan,1,,0,0.0000000,2020-03-14 12:04 EDT,43.3109547,-85.1525018
+26017,Bay County,MI,Michigan,Bay County MI,50,2,3,26,17,2-3-26-17,Midwest,East North Central,05000US26017,Bay,Michigan,1,,0,0.0000000,2020-03-14 12:04 EDT,43.7073289,-83.9920371
+26029,Charlevoix County,MI,Michigan,Charlevoix County MI,50,2,3,26,29,2-3-26-29,Midwest,East North Central,05000US26029,Charlevoix,Michigan,1,,0,0.0000000,2020-03-14 12:04 EDT,45.3165300,-85.2607200
+26099,Macomb County,MI,Michigan,Macomb County MI,50,2,3,26,99,2-3-26-99,Midwest,East North Central,05000US26099,Macomb,Michigan,1,,0,0.0000000,2020-03-14 12:04 EDT,42.6956500,-82.9217100
+37183,Wake County,NC,North Carolina,Wake County NC,50,3,5,37,183,3-5-37-183,South,South Atlantic,05000US37183,Wake,North Carolina,9,,0,0.0000000,2020-03-14 12:04 EDT,35.7901085,-78.6503976
+37067,Forsyth County,NC,North Carolina,Forsyth County NC,50,3,5,37,67,3-5-37-67,South,South Atlantic,05000US37067,Forsyth,North Carolina,2,,0,0.0000000,2020-03-14 12:04 EDT,36.1305370,-80.2563022
+37037,Chatham County,NC,North Carolina,Chatham County NC,50,3,5,37,37,3-5-37-37,South,South Atlantic,05000US37037,Chatham,North Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,35.7026299,-79.2554158
+37063,Durham County,NC,North Carolina,Durham County NC,50,3,5,37,63,3-5-37-63,South,South Atlantic,05000US37063,Durham,North Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,35.9954200,-78.8964400
+37101,Johnston County,NC,North Carolina,Johnston County NC,50,3,5,37,101,3-5-37-101,South,South Atlantic,05000US37101,Johnston,North Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,35.5176559,-78.3657386
+37119,Mecklenburg County,NC,North Carolina,Mecklenburg County NC,50,3,5,37,119,3-5-37-119,South,South Atlantic,05000US37119,Mecklenburg,North Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,35.2414779,-80.8308055
+37025,Cabarrus County,NC,North Carolina,Cabarrus County NC,50,3,5,37,25,3-5-37-25,South,South Atlantic,05000US37025,Cabarrus,North Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,35.2372000,-80.5423000
+37133,Onslow County,NC,North Carolina,Onslow County NC,50,3,5,37,133,3-5-37-133,South,South Atlantic,05000US37133,Onslow,North Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,34.7334689,-77.4296641
+37191,Wayne County,NC,North Carolina,Wayne County NC,50,3,5,37,191,3-5-37-191,South,South Atlantic,05000US37191,Wayne,North Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,35.3637623,-78.0041603
+37085,Harnett County,NC,North Carolina,Harnett County NC,50,3,5,37,85,3-5-37-85,South,South Atlantic,05000US37085,Harnett,North Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,35.3411700,-78.7883700
+37019,Brunswick County,NC,North Carolina,Brunswick County NC,50,3,5,37,19,3-5-37-19,South,South Atlantic,05000US37019,Brunswick,North Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,34.0705938,-78.2374968
+32003,Clark County,NV,Nevada,Clark County NV,50,4,8,32,3,4-8-32-3,West,Mountain,05000US32003,Clark,Nevada,16,,0,0.0000000,2020-03-14 12:04 EDT,36.2170997,-115.0246913
+32031,Washoe County,NV,Nevada,Washoe County NV,50,4,8,32,31,4-8-32-31,West,Mountain,05000US32031,Washoe,Nevada,3,,0,0.0000000,2020-03-14 12:04 EDT,40.6869602,-119.6659910
+55039,Fond du Lac County,WI,Wisconsin,Fond du Lac County WI,50,2,3,55,39,2-3-55-39,Midwest,East North Central,05000US55039,Fond du Lac,Wisconsin,6,,0,0.0000000,2020-03-14 12:04 EDT,43.7730200,-88.4470900
+55025,Dane County,WI,Wisconsin,Dane County WI,50,2,3,55,25,2-3-55-25,Midwest,East North Central,05000US55025,Dane,Wisconsin,5,,0,0.0000000,2020-03-14 12:04 EDT,43.2509000,-89.5182900
+55117,Sheboygan County,WI,Wisconsin,Sheboygan County WI,50,2,3,55,117,2-3-55-117,Midwest,East North Central,05000US55117,Sheboygan,Wisconsin,3,,0,0.0000000,2020-03-14 12:04 EDT,43.7497800,-87.7134300
+55079,Milwaukee County,WI,Wisconsin,Milwaukee County WI,50,2,3,55,79,2-3-55-79,Midwest,East North Central,05000US55079,Milwaukee,Wisconsin,2,,0,0.0000000,2020-03-14 12:04 EDT,43.0420000,-87.9068700
+55093,Pierce County,WI,Wisconsin,Pierce County WI,50,2,3,55,93,2-3-55-93,Midwest,East North Central,05000US55093,Pierce,Wisconsin,1,,0,0.0000000,2020-03-14 12:04 EDT,44.7227332,-92.4219232
+55133,Waukesha County,WI,Wisconsin,Waukesha County WI,50,2,3,55,133,2-3-55-133,Midwest,East North Central,05000US55133,Waukesha,Wisconsin,1,,0,0.0000000,2020-03-14 12:04 EDT,43.0145800,-88.2354800
+55101,Racine County,WI,Wisconsin,Racine County WI,50,2,3,55,101,2-3-55-101,Midwest,East North Central,05000US55101,Racine,Wisconsin,1,,0,0.0000000,2020-03-14 12:04 EDT,42.7256400,-87.7895500
+19103,Johnson County,IA,Iowa,Johnson County IA,50,2,4,19,103,2-4-19-103,Midwest,West North Central,05000US19103,Johnson,Iowa,14,,0,0.0000000,2020-03-14 12:04 EDT,41.6714957,-91.5880542
+19155,Pottawattamie County,IA,Iowa,Pottawattamie County IA,50,2,4,19,155,2-4-19-155,Midwest,West North Central,05000US19155,Pottawattamie,Iowa,1,,0,0.0000000,2020-03-14 12:04 EDT,41.3366584,-95.5414196
+19027,Carroll County,IA,Iowa,Carroll County IA,50,2,4,19,27,2-4-19-27,Midwest,West North Central,05000US19027,Carroll,Iowa,1,,0,0.0000000,2020-03-14 12:04 EDT,42.0658500,-94.8679300
+19085,Harrison County,IA,Iowa,Harrison County IA,50,2,4,19,85,2-4-19-85,Midwest,West North Central,05000US19085,Harrison,Iowa,1,,0,0.0000000,2020-03-14 12:04 EDT,41.6830140,-95.8155240
+18097,Marion County,IN,Indiana,Marion County IN,50,2,3,18,97,2-3-18-97,Midwest,East North Central,05000US18097,Marion,Indiana,3,,0,0.0000000,2020-03-14 12:04 EDT,39.7817436,-86.1384149
+18081,Johnson County,IN,Indiana,Johnson County IN,50,2,3,18,81,2-3-18-81,Midwest,East North Central,05000US18081,Johnson,Indiana,3,,0,0.0000000,2020-03-14 12:04 EDT,39.4899822,-86.1016083
+18063,Hendricks County,IN,Indiana,Hendricks County IN,50,2,3,18,63,2-3-18-63,Midwest,East North Central,05000US18063,Hendricks,Indiana,2,,0,0.0000000,2020-03-14 12:04 EDT,39.4838330,-86.0686510
+18113,Noble County,IN,Indiana,Noble County IN,50,2,3,18,113,2-3-18-113,Midwest,East North Central,05000US18113,Noble,Indiana,1,,0,0.0000000,2020-03-14 12:04 EDT,41.3985825,-85.4174388
+18001,Adams County,IN,Indiana,Adams County IN,50,2,3,18,1,2-3-18-1,Midwest,East North Central,05000US18001,Adams,Indiana,1,,0,0.0000000,2020-03-14 12:04 EDT,40.7456507,-84.9366342
+18011,Boone County,IN,Indiana,Boone County IN,50,2,3,18,11,2-3-18-11,Midwest,East North Central,05000US18011,Boone,Indiana,1,,0,0.0000000,2020-03-14 12:04 EDT,40.0507449,-86.4686988
+18067,Howard County,IN,Indiana,Howard County IN,50,2,3,18,67,2-3-18-67,Midwest,East North Central,05000US18067,Howard,Indiana,1,,0,0.0000000,2020-03-14 12:04 EDT,40.4835961,-86.1168603
+18141,St. Joseph County,IN,Indiana,St. Joseph County IN,50,2,3,18,141,2-3-18-141,Midwest,East North Central,05000US18141,St. Joseph,Indiana,1,,0,0.0000000,2020-03-14 12:04 EDT,41.6167201,-86.2899112
+18059,Hancock County,IN,Indiana,Hancock County IN,50,2,3,18,59,2-3-18-59,Midwest,East North Central,05000US18059,Hancock,Indiana,1,,0,0.0000000,2020-03-14 12:04 EDT,39.8235322,-85.7732226
+18179,Wells County,IN,Indiana,Wells County IN,50,2,3,18,179,2-3-18-179,Midwest,East North Central,05000US18179,Wells,Indiana,1,,0,0.0000000,2020-03-14 12:04 EDT,40.7291949,-85.2212160
+18091,LaPorte County,IN,Indiana,LaPorte County IN,50,2,3,18,91,2-3-18-91,Midwest,East North Central,05000US18091,LaPorte,Indiana,1,,0,0.0000000,2020-03-14 12:04 EDT,41.6106000,-86.7225200
+44007,Providence County,RI,Rhode Island,Providence County RI,50,1,1,44,7,1-1-44-7,Northeast,New England,05000US44007,Providence,Rhode Island,3,,0,0.0000000,2020-03-14 12:04 EDT,41.8238700,-71.4119900
+44001,Bristol County,RI,Rhode Island,Bristol County RI,50,1,1,44,1,1-1-44-1,Northeast,New England,05000US44001,RI,Rhode Island,2,,0,0.0000000,2020-03-14 12:04 EDT,,
+27123,Ramsey County,MN,Minnesota,Ramsey County MN,50,2,4,27,123,2-4-27-123,Midwest,West North Central,05000US27123,Ramsey,Minnesota,3,,0,0.0000000,2020-03-14 12:04 EDT,45.0181224,-93.0996168
+27019,Carver County,MN,Minnesota,Carver County MN,50,2,4,27,19,2-4-27-19,Midwest,West North Central,05000US27019,Carver,Minnesota,1,,0,0.0000000,2020-03-14 12:04 EDT,44.7632500,-93.6252400
+27003,Anoka County,MN,Minnesota,Anoka County MN,50,2,4,27,3,2-4-27-3,Midwest,West North Central,05000US27003,Anoka,Minnesota,1,,0,0.0000000,2020-03-14 12:04 EDT,45.1983300,-93.3899700
+27109,Olmsted County,MN,Minnesota,Olmsted County MN,50,2,4,27,109,2-4-27-109,Midwest,West North Central,05000US27109,Olmsted,Minnesota,1,,0,0.0000000,2020-03-14 12:04 EDT,44.0037994,-92.4018182
+27037,Dakota County,MN,Minnesota,Dakota County MN,50,2,4,27,37,2-4-27-37,Midwest,West North Central,05000US27037,Dakota,Minnesota,1,,0,0.0000000,2020-03-14 12:04 EDT,44.6709807,-93.0666777
+27145,Stearns County,MN,Minnesota,Stearns County MN,50,2,4,27,145,2-4-27-145,Midwest,West North Central,05000US27145,Stearns,Minnesota,1,,0,0.0000000,2020-03-14 12:04 EDT,45.5520968,-94.6137567
+27053,Hennepin County,MN,Minnesota,Hennepin County MN,50,2,4,27,53,2-4-27-53,Midwest,West North Central,05000US27053,Hennepin,Minnesota,1,,0,0.0000000,2020-03-14 12:04 EDT,45.0057578,-93.4749321
+27171,Wright County,MN,Minnesota,Wright County MN,50,2,4,27,171,2-4-27-171,Midwest,West North Central,05000US27171,Wright,Minnesota,1,,0,0.0000000,2020-03-14 12:04 EDT,45.1734420,-93.9635579
+21097,Harrison County,KY,Kentucky,Harrison County KY,50,3,6,21,97,3-6-21-97,South,East South Central,05000US21097,Harrison,Kentucky,5,,0,0.0000000,2020-03-14 12:04 EDT,38.4417404,-84.3314045
+21067,Fayette County,KY,Kentucky,Fayette County KY,50,3,6,21,67,3-6-21-67,South,East South Central,05000US21067,Fayette,Kentucky,3,,0,0.0000000,2020-03-14 12:04 EDT,38.0422722,-84.4586867
+21111,Jefferson County,KY,Kentucky,Jefferson County KY,50,3,6,21,111,3-6-21-111,South,East South Central,05000US21111,Jefferson,Kentucky,2,,0,0.0000000,2020-03-14 12:04 EDT,38.1858902,-85.6549948
+21173,Montgomery County,KY,Kentucky,Montgomery County KY,50,3,6,21,173,3-6-21-173,South,East South Central,05000US21173,Montgomery,Kentucky,2,,0,0.0000000,2020-03-14 12:04 EDT,38.0334716,-83.9130299
+31055,Douglas County,NE,Nebraska,Douglas County NE,50,2,4,31,55,2-4-31-55,Midwest,West North Central,05000US31055,Douglas,Nebraska,12,,0,0.0000000,2020-03-14 12:04 EDT,41.2953516,-96.1553341
+31107,Knox County,NE,Nebraska,Knox County NE,50,2,4,31,107,2-4-31-107,Midwest,West North Central,05000US31107,Knox,Nebraska,1,,0,0.0000000,2020-03-14 12:04 EDT,42.6316546,-97.8946364
+31025,Cass County,NE,Nebraska,Cass County NE,50,2,4,31,25,2-4-31-25,Midwest,West North Central,05000US31025,Cass,Nebraska,1,,0,0.0000000,2020-03-14 12:04 EDT,40.9097579,-96.1413609
+39035,Cuyahoga County,OH,Ohio,Cuyahoga County OH,50,2,3,39,35,2-3-39-35,Midwest,East North Central,05000US39035,Cuyahoga,Ohio,6,,0,0.0000000,2020-03-14 12:04 EDT,41.4244148,-81.6585817
+39151,Stark County,OH,Ohio,Stark County OH,50,2,3,39,151,2-3-39-151,Midwest,East North Central,05000US39151,Stark,Ohio,2,,0,0.0000000,2020-03-14 12:04 EDT,40.8139096,-81.3656565
+39013,Belmont County,OH,Ohio,Belmont County OH,50,2,3,39,13,2-3-39-13,Midwest,East North Central,05000US39013,Belmont,Ohio,2,,0,0.0000000,2020-03-14 12:04 EDT,40.0295500,-81.0389100
+39155,Trumbull County,OH,Ohio,Trumbull County OH,50,2,3,39,155,2-3-39-155,Midwest,East North Central,05000US39155,Trumbull,Ohio,1,,0,0.0000000,2020-03-14 12:04 EDT,41.3170671,-80.7611827
+39153,Summit County,OH,Ohio,Summit County OH,50,2,3,39,153,2-3-39-153,Midwest,East North Central,05000US39153,Summit,Ohio,1,,0,0.0000000,2020-03-14 12:04 EDT,41.1259157,-81.5321883
+39049,Franklin County,OH,Ohio,Franklin County OH,50,2,3,39,49,2-3-39-49,Midwest,East North Central,05000US39049,Franklin,Ohio,1,,0,0.0000000,2020-03-14 12:04 EDT,39.9694713,-83.0093307
+45055,Kershaw County,SC,South Carolina,Kershaw County SC,50,3,5,45,55,3-5-45-55,South,South Atlantic,05000US45055,Kershaw,South Carolina,5,,0,0.0000000,2020-03-14 12:04 EDT,34.3389221,-80.5902960
+45019,Charleston County,SC,South Carolina,Charleston County SC,50,3,5,45,19,3-5-45-19,South,South Atlantic,05000US45019,Charleston,South Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,32.7811500,-79.9316000
+45083,Spartanburg County,SC,South Carolina,Spartanburg County SC,50,3,5,45,83,3-5-45-83,South,South Atlantic,05000US45083,Spartanburg,South Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,34.9483800,-81.9349400
+45057,Lancaster County,SC,South Carolina,Lancaster County SC,50,3,5,45,57,3-5-45-57,South,South Atlantic,05000US45057,Lancaster,South Carolina,1,,0,0.0000000,2020-03-14 12:04 EDT,34.7209600,-80.7711200
+9001,Fairfield County,CT,Connecticut,Fairfield County CT,50,1,1,9,1,1-1-9-1,Northeast,New England,05000US9001,Fairfield,Connecticut,8,,0,0.0000000,2020-03-14 12:04 EDT,41.1663300,-73.2287600
+9005,Litchfield County,CT,Connecticut,Litchfield County CT,50,1,1,9,5,1-1-9-5,Northeast,New England,05000US9005,Litchfield,Connecticut,3,,0,0.0000000,2020-03-14 12:04 EDT,41.7462600,-73.1889500
+9003,Hartford County,CT,Connecticut,Hartford County CT,50,1,1,9,3,1-1-9-3,Northeast,New England,05000US9003,Hartford,Connecticut,1,,0,0.0000000,2020-03-14 12:04 EDT,41.7637500,-72.6739400
+4021,Pinal County,AZ,Arizona,Pinal County AZ,50,4,8,4,21,4-8-4-21,West,Mountain,05000US4021,Pinal,Arizona,5,,0,0.0000000,2020-03-14 12:04 EDT,32.9043197,-111.3447647
+4013,Maricopa County,AZ,Arizona,Maricopa County AZ,50,4,8,4,13,4-8-4-13,West,Mountain,05000US4013,Maricopa,Arizona,3,,0,0.0000000,2020-03-14 12:04 EDT,33.3488247,-112.4912788
+4019,Pima County,AZ,Arizona,Pima County AZ,50,4,8,4,19,4-8-4-19,West,Mountain,05000US4019,Pima,Arizona,2,,0,0.0000000,2020-03-14 12:04 EDT,32.0972712,-111.7897671
+4009,Graham County,AZ,Arizona,Graham County AZ,50,4,8,4,9,4-8-4-9,West,Mountain,05000US4009,Graham,Arizona,1,,0,0.0000000,2020-03-14 12:04 EDT,32.8744900,-109.7419800
+35001,Bernalillo County,NM,New Mexico,Bernalillo County NM,50,4,8,35,1,4-8-35-1,West,Mountain,05000US35001,Bernalillo,New Mexico,5,,0,0.0000000,2020-03-14 12:04 EDT,35.0512846,-106.6703125
+35049,Santa Fe County,NM,New Mexico,Santa Fe County NM,50,4,8,35,49,4-8-35-49,West,Mountain,05000US35049,Santa Fe,New Mexico,3,,0,0.0000000,2020-03-14 12:04 EDT,35.6916800,-105.9379600
+35053,Socorro County,NM,New Mexico,Socorro County NM,50,4,8,35,53,4-8-35-53,West,Mountain,05000US35053,Socorro,New Mexico,2,,0,0.0000000,2020-03-14 12:04 EDT,34.0601400,-106.8918700
+49043,Summit County,UT,Utah,Summit County UT,50,4,8,49,43,4-8-49-43,West,Mountain,05000US49043,Summit,Utah,4,,0,0.0000000,2020-03-14 12:04 EDT,40.8680986,-110.9558464
+49011,Davis County,UT,Utah,Davis County UT,50,4,8,49,11,4-8-49-11,West,Mountain,05000US49011,Davis,Utah,1,,0,0.0000000,2020-03-14 12:04 EDT,40.9997362,-111.9800051
+49057,Weber County,UT,Utah,Weber County UT,50,4,8,49,57,4-8-49-57,West,Mountain,05000US49057,Weber,Utah,1,,0,0.0000000,2020-03-14 12:04 EDT,,
+49035,Salt Lake County,UT,Utah,Salt Lake County UT,50,4,8,49,35,4-8-49-35,West,Mountain,05000US49035,Salt Lake,Utah,1,,0,0.0000000,2020-03-14 12:04 EDT,40.7603100,-111.8882200
+46099,Minnehaha County,SD,South Dakota,Minnehaha County SD,50,2,4,46,99,2-4-46-99,Midwest,West North Central,05000US46099,Minnehaha,South Dakota,3,,0,0.0000000,2020-03-14 12:04 EDT,43.6741776,-96.7914246
+46103,Pennington County,SD,South Dakota,Pennington County SD,50,2,4,46,103,2-4-46-103,Midwest,West North Central,05000US46103,Pennington,South Dakota,1,,1,1.0000000,2020-03-14 12:04 EDT,44.0037450,-102.8239008
+46005,Beadle County,SD,South Dakota,Beadle County SD,50,2,4,46,5,2-4-46-5,Midwest,West North Central,05000US46005,Beadle,South Dakota,1,,0,0.0000000,2020-03-14 12:04 EDT,44.4144846,-98.2781099
+46023,Charles Mix County,SD,South Dakota,Charles Mix County SD,50,2,4,46,23,2-4-46-23,Midwest,West North Central,05000US46023,Charles Mix,South Dakota,1,,0,0.0000000,2020-03-14 12:04 EDT,43.2074746,-98.5766704
+46009,Bon Homme County,SD,South Dakota,Bon Homme County SD,50,2,4,46,9,2-4-46-9,Midwest,West North Central,05000US46009,Bon Homme,South Dakota,1,,0,0.0000000,2020-03-14 12:04 EDT,42.9933604,-97.8866697
+46087,McCook County,SD,South Dakota,McCook County SD,50,2,4,46,87,2-4-46-87,Midwest,West North Central,05000US46087,McCook,South Dakota,1,,0,0.0000000,2020-03-14 12:04 EDT,43.6743065,-97.3684216
+33015,Rockingham County,NH,New Hampshire,Rockingham County NH,50,1,1,33,15,1-1-33-15,Northeast,New England,05000US33015,Rockingham,New Hampshire,4,,0,0.0000000,2020-03-14 12:04 EDT,43.0495400,-70.9321600
+33009,Grafton County,NH,New Hampshire,Grafton County NH,50,1,1,33,9,1-1-33-9,Northeast,New England,05000US33009,Grafton,New Hampshire,3,,0,0.0000000,2020-03-14 12:04 EDT,43.5621200,-71.9511400
+20091,Johnson County,KS,Kansas,Johnson County KS,50,2,4,20,91,2-4-20-91,Midwest,West North Central,05000US20091,Johnson,Kansas,4,,0,0.0000000,2020-03-14 12:04 EDT,38.8837729,-94.8222252
+20209,Wyandotte County,KS,Kansas,Wyandotte County KS,50,2,4,20,209,2-4-20-209,Midwest,West North Central,05000US20209,Wyandotte,Kansas,1,,1,1.0000000,2020-03-14 12:04 EDT,39.1140701,-94.7652427
+20173,Sedgwick County,KS,Kansas,Sedgwick County KS,50,2,4,20,173,2-4-20-173,Midwest,West North Central,05000US20173,Sedgwick,Kansas,1,,0,0.0000000,2020-03-14 12:04 EDT,37.6847605,-97.4609470
+28035,Forrest County,MS,Mississippi,Forrest County MS,50,3,6,28,35,3-6-28-35,South,East South Central,05000US28035,Forrest,Mississippi,3,,0,0.0000000,2020-03-14 12:04 EDT,31.1888395,-89.2578348
+28083,Leflore County,MS,Mississippi,Leflore County MS,50,3,6,28,83,3-6-28-83,South,East South Central,05000US28083,Leflore,Mississippi,1,,0,0.0000000,2020-03-14 12:04 EDT,33.5505280,-90.3010654
+28109,Pearl River County,MS,Mississippi,Pearl River County MS,50,3,6,28,109,3-6-28-109,South,East South Central,05000US28109,Pearl River,Mississippi,1,,0,0.0000000,2020-03-14 12:04 EDT,30.7685434,-89.5897574
+28029,Copiah County,MS,Mississippi,Copiah County MS,50,3,6,28,29,3-6-28-29,South,East South Central,05000US28029,Copiah,Mississippi,1,,0,0.0000000,2020-03-14 12:04 EDT,31.8693204,-90.4488597
+1101,Montgomery County,AL,Alabama,Montgomery County AL,50,3,6,1,101,3-6-1-101,South,East South Central,05000US1101,Montgomery,Alabama,1,,0,0.0000000,2020-03-14 12:04 EDT,32.3801500,-86.3000800
+1073,Jefferson County,AL,Alabama,Jefferson County AL,50,3,6,1,73,3-6-1-73,South,East South Central,05000US1073,Jefferson,Alabama,1,,0,0.0000000,2020-03-14 12:04 EDT,33.5542737,-86.8964891
+1051,Elmore County,AL,Alabama,Elmore County AL,50,3,6,1,51,3-6-1-51,South,East South Central,05000US1051,Elmore,Alabama,1,,0,0.0000000,2020-03-14 12:04 EDT,32.5416500,-86.3109300
+1125,Tuscaloosa County,AL,Alabama,Tuscaloosa County AL,50,3,6,1,125,3-6-1-125,South,East South Central,05000US1125,Tuscaloosa,Alabama,1,,0,0.0000000,2020-03-14 12:04 EDT,33.2104200,-87.5662500
+1083,Limestone County,AL,Alabama,Limestone County AL,50,3,6,1,83,3-6-1-83,South,East South Central,05000US1083,Limestone,Alabama,1,,0,0.0000000,2020-03-14 12:04 EDT,34.8148920,-86.9772846
+30031,Gallatin County,MT,Montana,Gallatin County MT,50,4,8,30,31,4-8-30-31,West,Mountain,05000US30031,Gallatin,Montana,1,,0,0.0000000,2020-03-14 12:04 EDT,45.5404518,-111.1704109
+30111,Yellowstone County,MT,Montana,Yellowstone County MT,50,4,8,30,111,4-8-30-111,West,Mountain,05000US30111,Yellowstone,Montana,1,,0,0.0000000,2020-03-14 12:04 EDT,45.9371163,-108.2743481
+30093,Silver Bow County,MT,Montana,Silver Bow County MT,50,4,8,30,93,4-8-30-93,West,Mountain,05000US30093,Silver Bow,Montana,1,,0,0.0000000,2020-03-14 12:04 EDT,45.9954400,-112.6566100
+30049,Lewis and Clark County,MT,Montana,Lewis and Clark County MT,50,4,8,30,49,4-8-30-49,West,Mountain,05000US30049,Lewis and Clark,Montana,1,,0,0.0000000,2020-03-14 12:04 EDT,47.1248150,-112.3941446
+40143,Tulsa County,OK,Oklahoma,Tulsa County OK,50,3,7,40,143,3-7-40-143,South,West South Central,05000US40143,Tulsa,Oklahoma,2,,0,0.0000000,2020-03-14 12:04 EDT,36.1501100,-95.9935200
+40065,Jackson County,OK,Oklahoma,Jackson County OK,50,3,7,40,65,3-7-40-65,South,West South Central,05000US40065,Jackson,Oklahoma,1,,0,0.0000000,2020-03-14 12:04 EDT,34.5866254,-99.4160473
+40109,Oklahoma County,OK,Oklahoma,Oklahoma County OK,50,3,7,40,109,3-7-40-109,South,West South Central,05000US40109,Oklahoma,Oklahoma,1,,0,0.0000000,2020-03-14 12:04 EDT,35.5826840,-97.5085994
+29189,St. Louis County,MO,Missouri,St. Louis County MO,50,2,4,29,189,2-4-29-189,Midwest,West North Central,05000US29189,St. Louis,Missouri,2,,0,0.0000000,2020-03-14 12:04 EDT,38.6277500,-90.1995600
+29077,Greene County,MO,Missouri,Greene County MO,50,2,4,29,77,2-4-29-77,Midwest,West North Central,05000US29077,Greene,Missouri,1,,0,0.0000000,2020-03-14 12:04 EDT,37.2580403,-93.3420185
+10003,New Castle County,DE,Delaware,New Castle County DE,50,3,5,10,3,3-5-10-3,South,South Atlantic,05000US10003,New Castle,Delaware,4,,0,0.0000000,2020-03-14 12:04 EDT,39.6597700,-75.5639400
+15003,Honolulu County,HI,Hawaii,Honolulu County HI,50,4,9,15,3,4-9-15-3,West,Pacific,05000US15003,Honolulu,Hawaii,2,,0,0.0000000,2020-03-14 12:04 EDT,21.3049300,-157.8578800
+15007,Kauai County,HI,Hawaii,Kauai County HI,50,4,9,15,7,4-9-15-7,West,Pacific,05000US15007,Kauai,Hawaii,1,,0,0.0000000,2020-03-14 12:04 EDT,22.0825024,-159.7275965
+23001,Androscoggin County,ME,Maine,Androscoggin County ME,50,1,1,23,1,1-1-23-1,Northeast,New England,05000US23001,Androscoggin,Maine,1,,0,0.0000000,2020-03-14 12:04 EDT,44.1658761,-70.2064586
+50003,Bennington County,VT,Vermont,Bennington County VT,50,1,1,50,3,1-1-50-3,Northeast,New England,05000US50003,Bennington,Vermont,1,,0,0.0000000,2020-03-14 12:04 EDT,42.8767200,-73.1981800
+50007,Chittenden County,VT,Vermont,Chittenden County VT,50,1,1,50,7,1-1-50-7,Northeast,New England,05000US50007,Chittenden,Vermont,1,,0,0.0000000,2020-03-14 12:04 EDT,44.4579951,-73.0540497
+56033,Sheridan County,WY,Wyoming,Sheridan County WY,50,4,8,56,33,4-8-56-33,West,Mountain,05000US56033,Sheridan,Wyoming,1,,0,0.0000000,2020-03-14 12:04 EDT,44.7979200,-106.9558700
+56013,Fremont County,WY,Wyoming,Fremont County WY,50,4,8,56,13,4-8-56-13,West,Mountain,05000US56013,Fremont,Wyoming,1,,0,0.0000000,2020-03-14 12:04 EDT,43.0405186,-108.6304974
+38101,Ward County,ND,North Dakota,Ward County ND,50,2,4,38,101,2-4-38-101,Midwest,West North Central,05000US38101,Ward,North Dakota,1,,0,0.0000000,2020-03-14 12:04 EDT,48.2216809,-101.5418179
+2020,Anchorage Municipality,AK,Alaska,Anchorage Municipality AK,50,4,9,2,20,4-9-2-20,West,Pacific,05000US2020,Anchorage,Alaska,1,,0,0.0000000,2020-03-14 12:04 EDT,61.2175300,-149.8582500
+16001,Ada County,ID,Idaho,Ada County ID,50,4,8,16,1,4-8-16-1,West,Mountain,05000US16001,Ada,Idaho,1,,0,0.0000000,2020-03-14 12:04 EDT,43.4510569,-116.2411338

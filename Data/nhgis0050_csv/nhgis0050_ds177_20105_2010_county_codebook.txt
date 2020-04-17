@@ -1,0 +1,264 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0050_ds177_20105_2010_county'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2006-2010
+Geographic level: County (by State)
+Dataset:          2010 American Community Survey: 5-Year Data [2006-2010, Tracts & Larger Areas]
+   NHGIS code:    2006_2010_ACS5b
+   NHGIS ID:      ds177
+Breakdown(s):     Geographic Subarea:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Means of Transportation to Work by Age
+   Universe:    Workers 16 years and over
+   Source code: B08101
+   NHGIS code:  JY6
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTY:      County Name
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACEA:      Place Code
+        TRACTA:      Census Tract Code
+        CONCITA:     Consolidated City Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_ONLYA:   American Indian Area/Alaska Native Area (Reservation or Statistical Entity Only) Code
+        TRUSTA:      American Indian Reservation with Trust Lands; trust lands only Code
+        AITSCEA:     Tribal Subdivision/Remainder Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (111th Congress) Code
+        SLDUA:       State Legislative District (Upper Chamber) Code
+        SLDLA:       State Legislative District (Lower Chamber) Code
+        SUBMCDA:     Subminor Civil Division Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PUMA5A:      Public Use Microdata Sample Area (PUMA) Code
+        BTTRA:       Tribal Census Tract Code
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Means of Transportation to Work by Age
+    Universe:    Workers 16 years and over
+    Source code: B08101
+    NHGIS code:  JY6
+        JY6E001:     Total
+        JY6E002:     16 to 19 years
+        JY6E003:     20 to 24 years
+        JY6E004:     25 to 44 years
+        JY6E005:     45 to 54 years
+        JY6E006:     55 to 59 years
+        JY6E007:     60 to 64 years
+        JY6E008:     65 years and over
+        JY6E009:     Car, truck, or van - drove alone
+        JY6E010:     Car, truck, or van - drove alone: 16 to 19 years
+        JY6E011:     Car, truck, or van - drove alone: 20 to 24 years
+        JY6E012:     Car, truck, or van - drove alone: 25 to 44 years
+        JY6E013:     Car, truck, or van - drove alone: 45 to 54 years
+        JY6E014:     Car, truck, or van - drove alone: 55 to 59 years
+        JY6E015:     Car, truck, or van - drove alone: 60 to 64 years
+        JY6E016:     Car, truck, or van - drove alone: 65 years and over
+        JY6E017:     Car, truck, or van - carpooled
+        JY6E018:     Car, truck, or van - carpooled: 16 to 19 years
+        JY6E019:     Car, truck, or van - carpooled: 20 to 24 years
+        JY6E020:     Car, truck, or van - carpooled: 25 to 44 years
+        JY6E021:     Car, truck, or van - carpooled: 45 to 54 years
+        JY6E022:     Car, truck, or van - carpooled: 55 to 59 years
+        JY6E023:     Car, truck, or van - carpooled: 60 to 64 years
+        JY6E024:     Car, truck, or van - carpooled: 65 years and over
+        JY6E025:     Public transportation (excluding taxicab)
+        JY6E026:     Public transportation (excluding taxicab): 16 to 19 years
+        JY6E027:     Public transportation (excluding taxicab): 20 to 24 years
+        JY6E028:     Public transportation (excluding taxicab): 25 to 44 years
+        JY6E029:     Public transportation (excluding taxicab): 45 to 54 years
+        JY6E030:     Public transportation (excluding taxicab): 55 to 59 years
+        JY6E031:     Public transportation (excluding taxicab): 60 to 64 years
+        JY6E032:     Public transportation (excluding taxicab): 65 years and over
+        JY6E033:     Walked
+        JY6E034:     Walked: 16 to 19 years
+        JY6E035:     Walked: 20 to 24 years
+        JY6E036:     Walked: 25 to 44 years
+        JY6E037:     Walked: 45 to 54 years
+        JY6E038:     Walked: 55 to 59 years
+        JY6E039:     Walked: 60 to 64 years
+        JY6E040:     Walked: 65 years and over
+        JY6E041:     Taxicab, motorcycle, bicycle, or other means
+        JY6E042:     Taxicab, motorcycle, bicycle, or other means: 16 to 19 years
+        JY6E043:     Taxicab, motorcycle, bicycle, or other means: 20 to 24 years
+        JY6E044:     Taxicab, motorcycle, bicycle, or other means: 25 to 44 years
+        JY6E045:     Taxicab, motorcycle, bicycle, or other means: 45 to 54 years
+        JY6E046:     Taxicab, motorcycle, bicycle, or other means: 55 to 59 years
+        JY6E047:     Taxicab, motorcycle, bicycle, or other means: 60 to 64 years
+        JY6E048:     Taxicab, motorcycle, bicycle, or other means: 65 years and over
+        JY6E049:     Worked at home
+        JY6E050:     Worked at home: 16 to 19 years
+        JY6E051:     Worked at home: 20 to 24 years
+        JY6E052:     Worked at home: 25 to 44 years
+        JY6E053:     Worked at home: 45 to 54 years
+        JY6E054:     Worked at home: 55 to 59 years
+        JY6E055:     Worked at home: 60 to 64 years
+        JY6E056:     Worked at home: 65 years and over
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Means of Transportation to Work by Age
+    Universe:    Workers 16 years and over
+    Source code: B08101
+    NHGIS code:  JY6
+        JY6M001:     Total
+        JY6M002:     16 to 19 years
+        JY6M003:     20 to 24 years
+        JY6M004:     25 to 44 years
+        JY6M005:     45 to 54 years
+        JY6M006:     55 to 59 years
+        JY6M007:     60 to 64 years
+        JY6M008:     65 years and over
+        JY6M009:     Car, truck, or van - drove alone
+        JY6M010:     Car, truck, or van - drove alone: 16 to 19 years
+        JY6M011:     Car, truck, or van - drove alone: 20 to 24 years
+        JY6M012:     Car, truck, or van - drove alone: 25 to 44 years
+        JY6M013:     Car, truck, or van - drove alone: 45 to 54 years
+        JY6M014:     Car, truck, or van - drove alone: 55 to 59 years
+        JY6M015:     Car, truck, or van - drove alone: 60 to 64 years
+        JY6M016:     Car, truck, or van - drove alone: 65 years and over
+        JY6M017:     Car, truck, or van - carpooled
+        JY6M018:     Car, truck, or van - carpooled: 16 to 19 years
+        JY6M019:     Car, truck, or van - carpooled: 20 to 24 years
+        JY6M020:     Car, truck, or van - carpooled: 25 to 44 years
+        JY6M021:     Car, truck, or van - carpooled: 45 to 54 years
+        JY6M022:     Car, truck, or van - carpooled: 55 to 59 years
+        JY6M023:     Car, truck, or van - carpooled: 60 to 64 years
+        JY6M024:     Car, truck, or van - carpooled: 65 years and over
+        JY6M025:     Public transportation (excluding taxicab)
+        JY6M026:     Public transportation (excluding taxicab): 16 to 19 years
+        JY6M027:     Public transportation (excluding taxicab): 20 to 24 years
+        JY6M028:     Public transportation (excluding taxicab): 25 to 44 years
+        JY6M029:     Public transportation (excluding taxicab): 45 to 54 years
+        JY6M030:     Public transportation (excluding taxicab): 55 to 59 years
+        JY6M031:     Public transportation (excluding taxicab): 60 to 64 years
+        JY6M032:     Public transportation (excluding taxicab): 65 years and over
+        JY6M033:     Walked
+        JY6M034:     Walked: 16 to 19 years
+        JY6M035:     Walked: 20 to 24 years
+        JY6M036:     Walked: 25 to 44 years
+        JY6M037:     Walked: 45 to 54 years
+        JY6M038:     Walked: 55 to 59 years
+        JY6M039:     Walked: 60 to 64 years
+        JY6M040:     Walked: 65 years and over
+        JY6M041:     Taxicab, motorcycle, bicycle, or other means
+        JY6M042:     Taxicab, motorcycle, bicycle, or other means: 16 to 19 years
+        JY6M043:     Taxicab, motorcycle, bicycle, or other means: 20 to 24 years
+        JY6M044:     Taxicab, motorcycle, bicycle, or other means: 25 to 44 years
+        JY6M045:     Taxicab, motorcycle, bicycle, or other means: 45 to 54 years
+        JY6M046:     Taxicab, motorcycle, bicycle, or other means: 55 to 59 years
+        JY6M047:     Taxicab, motorcycle, bicycle, or other means: 60 to 64 years
+        JY6M048:     Taxicab, motorcycle, bicycle, or other means: 65 years and over
+        JY6M049:     Worked at home
+        JY6M050:     Worked at home: 16 to 19 years
+        JY6M051:     Worked at home: 20 to 24 years
+        JY6M052:     Worked at home: 25 to 44 years
+        JY6M053:     Worked at home: 45 to 54 years
+        JY6M054:     Worked at home: 55 to 59 years
+        JY6M055:     Worked at home: 60 to 64 years
+        JY6M056:     Worked at home: 65 years and over
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, and Steven Ruggles. 
+        IPUMS National Historical Geographic Information System: Version 14.0 
+        [Database]. Minneapolis, MN: IPUMS. 2019. 
+        http://doi.org/10.18128/D050.V14.0
+
+    * Publications and research reports employing school attendance areas data 
+      (either tabular or GIS) must cite it appropriately. The citation should 
+      include the following:
+
+        The College of William and Mary and the Minnesota Population Center.
+        School Attendance Boundary Information System (SABINS): Version 1.0.
+        Minneapolis, MN: University of Minnesota 2011.
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+    * If possible, citations involving school attendance areas should also include
+      the URL for the SABINS site:
+
+        http://www.sabinsdata.org/.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

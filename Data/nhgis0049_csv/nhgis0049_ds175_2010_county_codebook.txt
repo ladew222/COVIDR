@@ -1,0 +1,275 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0049_ds175_2010_county'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2010
+Geographic level: County (by State)
+Dataset:          2010 American Community Survey: 1-Year Data
+   NHGIS code:    2010_ACS1
+   NHGIS ID:      ds175
+Breakdown(s):     Geographic Subarea:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Types of Health Insurance Coverage by Age
+   Universe:    Civilian noninstitutionalized population
+   Source code: B27010
+   NHGIS code:  JIF
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTY:      County Name
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACEA:      Place Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   NECTA Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (111th Congress) Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PUMA5A:      Public Use Microdata Sample Area (PUMA) Code
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Types of Health Insurance Coverage by Age
+    Universe:    Civilian noninstitutionalized population
+    Source code: B27010
+    NHGIS code:  JIF
+        JIFE001:     Total
+        JIFE002:     Under 18 years
+        JIFE003:     Under 18 years: With one type of health insurance coverage
+        JIFE004:     Under 18 years: With one type of health insurance coverage: With employer-based health insurance only
+        JIFE005:     Under 18 years: With one type of health insurance coverage: With direct-purchase health insurance only
+        JIFE006:     Under 18 years: With one type of health insurance coverage: With Medicare coverage only
+        JIFE007:     Under 18 years: With one type of health insurance coverage: With Medicaid/means-tested public coverage only
+        JIFE008:     Under 18 years: With one type of health insurance coverage: With TRICARE/military health coverage only
+        JIFE009:     Under 18 years: With one type of health insurance coverage: With VA Health Care only
+        JIFE010:     Under 18 years: With two or more types of health insurance coverage
+        JIFE011:     Under 18 years: With two or more types of health insurance coverage: With employer-based and direct-purchase coverage
+        JIFE012:     Under 18 years: With two or more types of health insurance coverage: With employer-based and Medicare coverage
+        JIFE013:     Under 18 years: With two or more types of health insurance coverage: With Medicare and Medicaid/means-tested public coverage
+        JIFE014:     Under 18 years: With two or more types of health insurance coverage: Other private only combinations
+        JIFE015:     Under 18 years: With two or more types of health insurance coverage: Other public only combinations
+        JIFE016:     Under 18 years: With two or more types of health insurance coverage: Other coverage combinations
+        JIFE017:     Under 18 years: No health insurance coverage
+        JIFE018:     18 to 34 years
+        JIFE019:     18 to 34 years: With one type of health insurance coverage
+        JIFE020:     18 to 34 years: With one type of health insurance coverage: With employer-based health insurance only
+        JIFE021:     18 to 34 years: With one type of health insurance coverage: With direct-purchase health insurance only
+        JIFE022:     18 to 34 years: With one type of health insurance coverage: With Medicare coverage only
+        JIFE023:     18 to 34 years: With one type of health insurance coverage: With Medicaid/means-tested public coverage only
+        JIFE024:     18 to 34 years: With one type of health insurance coverage: With TRICARE/military health coverage only
+        JIFE025:     18 to 34 years: With one type of health insurance coverage: With VA Health Care only
+        JIFE026:     18 to 34 years: With two or more types of health insurance coverage
+        JIFE027:     18 to 34 years: With two or more types of health insurance coverage: With employer-based and direct-purchase coverage
+        JIFE028:     18 to 34 years: With two or more types of health insurance coverage: With employer-based and Medicare coverage
+        JIFE029:     18 to 34 years: With two or more types of health insurance coverage: With Medicare and Medicaid/means-tested public coverage
+        JIFE030:     18 to 34 years: With two or more types of health insurance coverage: Other private only combinations
+        JIFE031:     18 to 34 years: With two or more types of health insurance coverage: Other public only combinations
+        JIFE032:     18 to 34 years: With two or more types of health insurance coverage: Other coverage combinations
+        JIFE033:     18 to 34 years: No health insurance coverage
+        JIFE034:     35 to 64 years
+        JIFE035:     35 to 64 years: With one type of health insurance coverage
+        JIFE036:     35 to 64 years: With one type of health insurance coverage: With employer-based health insurance only
+        JIFE037:     35 to 64 years: With one type of health insurance coverage: With direct-purchase health insurance only
+        JIFE038:     35 to 64 years: With one type of health insurance coverage: With Medicare coverage only
+        JIFE039:     35 to 64 years: With one type of health insurance coverage: With Medicaid/means-tested public coverage only
+        JIFE040:     35 to 64 years: With one type of health insurance coverage: With TRICARE/military health coverage only
+        JIFE041:     35 to 64 years: With one type of health insurance coverage: With VA Health Care only
+        JIFE042:     35 to 64 years: With two or more types of health insurance coverage
+        JIFE043:     35 to 64 years: With two or more types of health insurance coverage: With employer-based and direct-purchase coverage
+        JIFE044:     35 to 64 years: With two or more types of health insurance coverage: With employer-based and Medicare coverage
+        JIFE045:     35 to 64 years: With two or more types of health insurance coverage: With direct-purchase and Medicare coverage
+        JIFE046:     35 to 64 years: With two or more types of health insurance coverage: With Medicare and Medicaid/means-tested public coverage
+        JIFE047:     35 to 64 years: With two or more types of health insurance coverage: Other private only combinations
+        JIFE048:     35 to 64 years: With two or more types of health insurance coverage: Other public only combinations
+        JIFE049:     35 to 64 years: With two or more types of health insurance coverage: Other coverage combinations
+        JIFE050:     35 to 64 years: No health insurance coverage
+        JIFE051:     65 years and over
+        JIFE052:     65 years and over: With one type of health insurance coverage
+        JIFE053:     65 years and over: With one type of health insurance coverage: With employer-based health insurance only
+        JIFE054:     65 years and over: With one type of health insurance coverage: With direct-purchase health insurance only
+        JIFE055:     65 years and over: With one type of health insurance coverage: With Medicare coverage only
+        JIFE056:     65 years and over: With one type of health insurance coverage: With TRICARE/military health coverage only
+        JIFE057:     65 years and over: With one type of health insurance coverage: With VA Health Care only
+        JIFE058:     65 years and over: With two or more types of health insurance coverage
+        JIFE059:     65 years and over: With two or more types of health insurance coverage: With employer-based and direct-purchase coverage
+        JIFE060:     65 years and over: With two or more types of health insurance coverage: With employer-based and Medicare coverage
+        JIFE061:     65 years and over: With two or more types of health insurance coverage: With direct-purchase and Medicare coverage
+        JIFE062:     65 years and over: With two or more types of health insurance coverage: With Medicare and Medicaid/means-tested public coverage
+        JIFE063:     65 years and over: With two or more types of health insurance coverage: Other private only combinations
+        JIFE064:     65 years and over: With two or more types of health insurance coverage: Other public only combinations
+        JIFE065:     65 years and over: With two or more types of health insurance coverage: Other coverage combinations
+        JIFE066:     65 years and over: No health insurance coverage
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Types of Health Insurance Coverage by Age
+    Universe:    Civilian noninstitutionalized population
+    Source code: B27010
+    NHGIS code:  JIF
+        JIFM001:     Total
+        JIFM002:     Under 18 years
+        JIFM003:     Under 18 years: With one type of health insurance coverage
+        JIFM004:     Under 18 years: With one type of health insurance coverage: With employer-based health insurance only
+        JIFM005:     Under 18 years: With one type of health insurance coverage: With direct-purchase health insurance only
+        JIFM006:     Under 18 years: With one type of health insurance coverage: With Medicare coverage only
+        JIFM007:     Under 18 years: With one type of health insurance coverage: With Medicaid/means-tested public coverage only
+        JIFM008:     Under 18 years: With one type of health insurance coverage: With TRICARE/military health coverage only
+        JIFM009:     Under 18 years: With one type of health insurance coverage: With VA Health Care only
+        JIFM010:     Under 18 years: With two or more types of health insurance coverage
+        JIFM011:     Under 18 years: With two or more types of health insurance coverage: With employer-based and direct-purchase coverage
+        JIFM012:     Under 18 years: With two or more types of health insurance coverage: With employer-based and Medicare coverage
+        JIFM013:     Under 18 years: With two or more types of health insurance coverage: With Medicare and Medicaid/means-tested public coverage
+        JIFM014:     Under 18 years: With two or more types of health insurance coverage: Other private only combinations
+        JIFM015:     Under 18 years: With two or more types of health insurance coverage: Other public only combinations
+        JIFM016:     Under 18 years: With two or more types of health insurance coverage: Other coverage combinations
+        JIFM017:     Under 18 years: No health insurance coverage
+        JIFM018:     18 to 34 years
+        JIFM019:     18 to 34 years: With one type of health insurance coverage
+        JIFM020:     18 to 34 years: With one type of health insurance coverage: With employer-based health insurance only
+        JIFM021:     18 to 34 years: With one type of health insurance coverage: With direct-purchase health insurance only
+        JIFM022:     18 to 34 years: With one type of health insurance coverage: With Medicare coverage only
+        JIFM023:     18 to 34 years: With one type of health insurance coverage: With Medicaid/means-tested public coverage only
+        JIFM024:     18 to 34 years: With one type of health insurance coverage: With TRICARE/military health coverage only
+        JIFM025:     18 to 34 years: With one type of health insurance coverage: With VA Health Care only
+        JIFM026:     18 to 34 years: With two or more types of health insurance coverage
+        JIFM027:     18 to 34 years: With two or more types of health insurance coverage: With employer-based and direct-purchase coverage
+        JIFM028:     18 to 34 years: With two or more types of health insurance coverage: With employer-based and Medicare coverage
+        JIFM029:     18 to 34 years: With two or more types of health insurance coverage: With Medicare and Medicaid/means-tested public coverage
+        JIFM030:     18 to 34 years: With two or more types of health insurance coverage: Other private only combinations
+        JIFM031:     18 to 34 years: With two or more types of health insurance coverage: Other public only combinations
+        JIFM032:     18 to 34 years: With two or more types of health insurance coverage: Other coverage combinations
+        JIFM033:     18 to 34 years: No health insurance coverage
+        JIFM034:     35 to 64 years
+        JIFM035:     35 to 64 years: With one type of health insurance coverage
+        JIFM036:     35 to 64 years: With one type of health insurance coverage: With employer-based health insurance only
+        JIFM037:     35 to 64 years: With one type of health insurance coverage: With direct-purchase health insurance only
+        JIFM038:     35 to 64 years: With one type of health insurance coverage: With Medicare coverage only
+        JIFM039:     35 to 64 years: With one type of health insurance coverage: With Medicaid/means-tested public coverage only
+        JIFM040:     35 to 64 years: With one type of health insurance coverage: With TRICARE/military health coverage only
+        JIFM041:     35 to 64 years: With one type of health insurance coverage: With VA Health Care only
+        JIFM042:     35 to 64 years: With two or more types of health insurance coverage
+        JIFM043:     35 to 64 years: With two or more types of health insurance coverage: With employer-based and direct-purchase coverage
+        JIFM044:     35 to 64 years: With two or more types of health insurance coverage: With employer-based and Medicare coverage
+        JIFM045:     35 to 64 years: With two or more types of health insurance coverage: With direct-purchase and Medicare coverage
+        JIFM046:     35 to 64 years: With two or more types of health insurance coverage: With Medicare and Medicaid/means-tested public coverage
+        JIFM047:     35 to 64 years: With two or more types of health insurance coverage: Other private only combinations
+        JIFM048:     35 to 64 years: With two or more types of health insurance coverage: Other public only combinations
+        JIFM049:     35 to 64 years: With two or more types of health insurance coverage: Other coverage combinations
+        JIFM050:     35 to 64 years: No health insurance coverage
+        JIFM051:     65 years and over
+        JIFM052:     65 years and over: With one type of health insurance coverage
+        JIFM053:     65 years and over: With one type of health insurance coverage: With employer-based health insurance only
+        JIFM054:     65 years and over: With one type of health insurance coverage: With direct-purchase health insurance only
+        JIFM055:     65 years and over: With one type of health insurance coverage: With Medicare coverage only
+        JIFM056:     65 years and over: With one type of health insurance coverage: With TRICARE/military health coverage only
+        JIFM057:     65 years and over: With one type of health insurance coverage: With VA Health Care only
+        JIFM058:     65 years and over: With two or more types of health insurance coverage
+        JIFM059:     65 years and over: With two or more types of health insurance coverage: With employer-based and direct-purchase coverage
+        JIFM060:     65 years and over: With two or more types of health insurance coverage: With employer-based and Medicare coverage
+        JIFM061:     65 years and over: With two or more types of health insurance coverage: With direct-purchase and Medicare coverage
+        JIFM062:     65 years and over: With two or more types of health insurance coverage: With Medicare and Medicaid/means-tested public coverage
+        JIFM063:     65 years and over: With two or more types of health insurance coverage: Other private only combinations
+        JIFM064:     65 years and over: With two or more types of health insurance coverage: Other public only combinations
+        JIFM065:     65 years and over: With two or more types of health insurance coverage: Other coverage combinations
+        JIFM066:     65 years and over: No health insurance coverage
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, and Steven Ruggles. 
+        IPUMS National Historical Geographic Information System: Version 14.0 
+        [Database]. Minneapolis, MN: IPUMS. 2019. 
+        http://doi.org/10.18128/D050.V14.0
+
+    * Publications and research reports employing school attendance areas data 
+      (either tabular or GIS) must cite it appropriately. The citation should 
+      include the following:
+
+        The College of William and Mary and the Minnesota Population Center.
+        School Attendance Boundary Information System (SABINS): Version 1.0.
+        Minneapolis, MN: University of Minnesota 2011.
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+    * If possible, citations involving school attendance areas should also include
+      the URL for the SABINS site:
+
+        http://www.sabinsdata.org/.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

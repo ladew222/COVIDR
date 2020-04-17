@@ -1,0 +1,251 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0048_ds175_2010_county'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2010
+Geographic level: County (by State)
+Dataset:          2010 American Community Survey: 1-Year Data
+   NHGIS code:    2010_ACS1
+   NHGIS ID:      ds175
+Breakdown(s):     Geographic Subarea:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Educational Attainment for the Population 25 Years and Over
+   Universe:    Population 25 years and over
+   Source code: B15003
+   NHGIS code:  IXM
+ 
+2. Language Spoken at Home for the Population 5 Years and Over
+   Universe:    Population 5 years and over
+   Source code: C16001
+   NHGIS code:  IX2
+ 
+3. Per Capita Income in the Past 12 Months (in 2010 Inflation-Adjusted Dollars)
+   Universe:    Total population
+   Source code: B19301
+   NHGIS code:  I6I
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTY:      County Name
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACEA:      Place Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   NECTA Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (111th Congress) Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PUMA5A:      Public Use Microdata Sample Area (PUMA) Code
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  IXM
+        IXME001:     Total
+        IXME002:     No schooling completed
+        IXME003:     Nursery school
+        IXME004:     Kindergarten
+        IXME005:     1st grade
+        IXME006:     2nd grade
+        IXME007:     3rd grade
+        IXME008:     4th grade
+        IXME009:     5th grade
+        IXME010:     6th grade
+        IXME011:     7th grade
+        IXME012:     8th grade
+        IXME013:     9th grade
+        IXME014:     10th grade
+        IXME015:     11th grade
+        IXME016:     12th grade, no diploma
+        IXME017:     Regular high school diploma
+        IXME018:     GED or alternative credential
+        IXME019:     Some college, less than 1 year
+        IXME020:     Some college, 1 or more years, no degree
+        IXME021:     Associate's degree
+        IXME022:     Bachelor's degree
+        IXME023:     Master's degree
+        IXME024:     Professional school degree
+        IXME025:     Doctorate degree
+ 
+    Table 2:     Language Spoken at Home for the Population 5 Years and Over
+    Universe:    Population 5 years and over
+    Source code: C16001
+    NHGIS code:  IX2
+        IX2E001:     Total
+        IX2E002:     Speak only English
+        IX2E003:     Spanish or Spanish Creole
+        IX2E004:     French (including Patois, Creole, Cajun)
+        IX2E005:     German or other West Germanic languages
+        IX2E006:     Slavic languages
+        IX2E007:     Other Indo-European languages
+        IX2E008:     Korean
+        IX2E009:     Chinese
+        IX2E010:     Vietnamese
+        IX2E011:     Tagalog
+        IX2E012:     Other Asian and Pacific Island languages
+        IX2E013:     Other and unspecified languages
+ 
+    Table 3:     Per Capita Income in the Past 12 Months (in 2010 Inflation-Adjusted Dollars)
+    Universe:    Total population
+    Source code: B19301
+    NHGIS code:  I6I
+        I6IE001:     Per capita income in the past 12 months (in 2010 inflation-adjusted dollars)
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  IXM
+        IXMM001:     Total
+        IXMM002:     No schooling completed
+        IXMM003:     Nursery school
+        IXMM004:     Kindergarten
+        IXMM005:     1st grade
+        IXMM006:     2nd grade
+        IXMM007:     3rd grade
+        IXMM008:     4th grade
+        IXMM009:     5th grade
+        IXMM010:     6th grade
+        IXMM011:     7th grade
+        IXMM012:     8th grade
+        IXMM013:     9th grade
+        IXMM014:     10th grade
+        IXMM015:     11th grade
+        IXMM016:     12th grade, no diploma
+        IXMM017:     Regular high school diploma
+        IXMM018:     GED or alternative credential
+        IXMM019:     Some college, less than 1 year
+        IXMM020:     Some college, 1 or more years, no degree
+        IXMM021:     Associate's degree
+        IXMM022:     Bachelor's degree
+        IXMM023:     Master's degree
+        IXMM024:     Professional school degree
+        IXMM025:     Doctorate degree
+ 
+    Table 2:     Language Spoken at Home for the Population 5 Years and Over
+    Universe:    Population 5 years and over
+    Source code: C16001
+    NHGIS code:  IX2
+        IX2M001:     Total
+        IX2M002:     Speak only English
+        IX2M003:     Spanish or Spanish Creole
+        IX2M004:     French (including Patois, Creole, Cajun)
+        IX2M005:     German or other West Germanic languages
+        IX2M006:     Slavic languages
+        IX2M007:     Other Indo-European languages
+        IX2M008:     Korean
+        IX2M009:     Chinese
+        IX2M010:     Vietnamese
+        IX2M011:     Tagalog
+        IX2M012:     Other Asian and Pacific Island languages
+        IX2M013:     Other and unspecified languages
+ 
+    Table 3:     Per Capita Income in the Past 12 Months (in 2010 Inflation-Adjusted Dollars)
+    Universe:    Total population
+    Source code: B19301
+    NHGIS code:  I6I
+        I6IM001:     Per capita income in the past 12 months (in 2010 inflation-adjusted dollars)
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, and Steven Ruggles. 
+        IPUMS National Historical Geographic Information System: Version 14.0 
+        [Database]. Minneapolis, MN: IPUMS. 2019. 
+        http://doi.org/10.18128/D050.V14.0
+
+    * Publications and research reports employing school attendance areas data 
+      (either tabular or GIS) must cite it appropriately. The citation should 
+      include the following:
+
+        The College of William and Mary and the Minnesota Population Center.
+        School Attendance Boundary Information System (SABINS): Version 1.0.
+        Minneapolis, MN: University of Minnesota 2011.
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+    * If possible, citations involving school attendance areas should also include
+      the URL for the SABINS site:
+
+        http://www.sabinsdata.org/.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455

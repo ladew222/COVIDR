@@ -1,0 +1,557 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0048_ds177_20105_2010_county'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2006-2010
+Geographic level: County (by State)
+Dataset:          2010 American Community Survey: 5-Year Data [2006-2010, Tracts & Larger Areas]
+   NHGIS code:    2006_2010_ACS5b
+   NHGIS ID:      ds177
+Breakdown(s):     Geographic Subarea:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Place of Birth by Citizenship Status
+   Universe:    Total population
+   Source code: B05002
+   NHGIS code:  JWA
+ 
+2. Place of Birth for the Foreign-Born Population in the United States
+   Universe:    Foreign-born population excluding population born at sea
+   Source code: B05006
+   NHGIS code:  JWO
+ 
+3. Nativity in the United States
+   Universe:    Total population in the United States
+   Source code: B05012
+   NHGIS code:  JWU
+ 
+4. Gini Index of Income Inequality
+   Universe:    Households
+   Source code: B19083
+   NHGIS code:  J4T
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTY:      County Name
+        COUNTYA:     County Code
+        COUSUBA:     County Subdivision Code
+        PLACEA:      Place Code
+        TRACTA:      Census Tract Code
+        CONCITA:     Consolidated City Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_ONLYA:   American Indian Area/Alaska Native Area (Reservation or Statistical Entity Only) Code
+        TRUSTA:      American Indian Reservation with Trust Lands; trust lands only Code
+        AITSCEA:     Tribal Subdivision/Remainder Code
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Metropolitan Statistical Area/Micropolitan Statistical Area Code
+        CSAA:        Combined Statistical Area Code
+        METDIVA:     Metropolitan Division Code
+        NECTAA:      New England City and Town Area Code
+        CNECTAA:     Combined New England City and Town Area Code
+        NECTADIVA:   New England City and Town Area Division Code
+        UAA:         Urban Area Code
+        CDCURRA:     Congressional District (111th Congress) Code
+        SLDUA:       State Legislative District (Upper Chamber) Code
+        SLDLA:       State Legislative District (Lower Chamber) Code
+        SUBMCDA:     Subminor Civil Division Code
+        SDELMA:      School District (Elementary)/Remainder Code
+        SDSECA:      School District (Secondary)/Remainder Code
+        SDUNIA:      School District (Unified)/Remainder Code
+        PUMA5A:      Public Use Microdata Sample Area (PUMA) Code
+        BTTRA:       Tribal Census Tract Code
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Place of Birth by Citizenship Status
+    Universe:    Total population
+    Source code: B05002
+    NHGIS code:  JWA
+        JWAE001:     Total
+        JWAE002:     Native
+        JWAE003:     Native: Born in state of residence
+        JWAE004:     Native: Born in other state in the United States
+        JWAE005:     Native: Born in other state in the United States: Northeast
+        JWAE006:     Native: Born in other state in the United States: Midwest
+        JWAE007:     Native: Born in other state in the United States: South
+        JWAE008:     Native: Born in other state in the United States: West
+        JWAE009:     Native: Born outside the United States
+        JWAE010:     Native: Born outside the United States: Puerto Rico
+        JWAE011:     Native: Born outside the United States: U.S. Island Areas
+        JWAE012:     Native: Born outside the United States: Born abroad of American parent(s)
+        JWAE013:     Foreign born
+        JWAE014:     Foreign born: Naturalized U.S. citizen
+        JWAE015:     Foreign born: Not a U.S. citizen
+ 
+    Table 2:     Place of Birth for the Foreign-Born Population in the United States
+    Universe:    Foreign-born population excluding population born at sea
+    Source code: B05006
+    NHGIS code:  JWO
+        JWOE001:     Total
+        JWOE002:     Europe
+        JWOE003:     Europe: Northern Europe
+        JWOE004:     Europe: Northern Europe: United Kingdom (inc. Crown Dependencies)
+        JWOE005:     Europe: Northern Europe: United Kingdom (inc. Crown Dependencies): United Kingdom, excluding England and Scotland
+        JWOE006:     Europe: Northern Europe: United Kingdom (inc. Crown Dependencies): England
+        JWOE007:     Europe: Northern Europe: United Kingdom (inc. Crown Dependencies): Scotland
+        JWOE008:     Europe: Northern Europe: Ireland
+        JWOE009:     Europe: Northern Europe: Denmark
+        JWOE010:     Europe: Northern Europe: Norway
+        JWOE011:     Europe: Northern Europe: Sweden
+        JWOE012:     Europe: Northern Europe: Other Northern Europe
+        JWOE013:     Europe: Western Europe
+        JWOE014:     Europe: Western Europe: Austria
+        JWOE015:     Europe: Western Europe: Belgium
+        JWOE016:     Europe: Western Europe: France
+        JWOE017:     Europe: Western Europe: Germany
+        JWOE018:     Europe: Western Europe: Netherlands
+        JWOE019:     Europe: Western Europe: Switzerland
+        JWOE020:     Europe: Western Europe: Other Western Europe
+        JWOE021:     Europe: Southern Europe
+        JWOE022:     Europe: Southern Europe: Greece
+        JWOE023:     Europe: Southern Europe: Italy
+        JWOE024:     Europe: Southern Europe: Portugal
+        JWOE025:     Europe: Southern Europe: Spain
+        JWOE026:     Europe: Southern Europe: Other Southern Europe
+        JWOE027:     Europe: Eastern Europe
+        JWOE028:     Europe: Eastern Europe: Albania
+        JWOE029:     Europe: Eastern Europe: Belarus
+        JWOE030:     Europe: Eastern Europe: Bulgaria
+        JWOE031:     Europe: Eastern Europe: Croatia
+        JWOE032:     Europe: Eastern Europe: Czechoslovakia (includes Czech Republic and Slovakia)
+        JWOE033:     Europe: Eastern Europe: Hungary
+        JWOE034:     Europe: Eastern Europe: Latvia
+        JWOE035:     Europe: Eastern Europe: Lithuania
+        JWOE036:     Europe: Eastern Europe: Macedonia
+        JWOE037:     Europe: Eastern Europe: Moldova
+        JWOE038:     Europe: Eastern Europe: Poland
+        JWOE039:     Europe: Eastern Europe: Romania
+        JWOE040:     Europe: Eastern Europe: Russia
+        JWOE041:     Europe: Eastern Europe: Ukraine
+        JWOE042:     Europe: Eastern Europe: Bosnia and Herzegovina
+        JWOE043:     Europe: Eastern Europe: Yugoslavia
+        JWOE044:     Europe: Eastern Europe: Yugoslavia: Serbia
+        JWOE045:     Europe: Eastern Europe: Other Eastern Europe
+        JWOE046:     Europe: Europe, n.e.c.
+        JWOE047:     Asia
+        JWOE048:     Asia: Eastern Asia
+        JWOE049:     Asia: Eastern Asia: China
+        JWOE050:     Asia: Eastern Asia: China: China, excluding Hong Kong and Taiwan
+        JWOE051:     Asia: Eastern Asia: China: Hong Kong
+        JWOE052:     Asia: Eastern Asia: China: Taiwan
+        JWOE053:     Asia: Eastern Asia: Japan
+        JWOE054:     Asia: Eastern Asia: Korea
+        JWOE055:     Asia: Eastern Asia: Other Eastern Asia
+        JWOE056:     Asia: South Central Asia
+        JWOE057:     Asia: South Central Asia: Afghanistan
+        JWOE058:     Asia: South Central Asia: Bangladesh
+        JWOE059:     Asia: South Central Asia: India
+        JWOE060:     Asia: South Central Asia: Iran
+        JWOE061:     Asia: South Central Asia: Kazakhstan
+        JWOE062:     Asia: South Central Asia: Nepal
+        JWOE063:     Asia: South Central Asia: Pakistan
+        JWOE064:     Asia: South Central Asia: Sri Lanka
+        JWOE065:     Asia: South Central Asia: Uzbekistan
+        JWOE066:     Asia: South Central Asia: Other South Central Asia
+        JWOE067:     Asia: South Eastern Asia
+        JWOE068:     Asia: South Eastern Asia: Cambodia
+        JWOE069:     Asia: South Eastern Asia: Indonesia
+        JWOE070:     Asia: South Eastern Asia: Laos
+        JWOE071:     Asia: South Eastern Asia: Malaysia
+        JWOE072:     Asia: South Eastern Asia: Burma
+        JWOE073:     Asia: South Eastern Asia: Philippines
+        JWOE074:     Asia: South Eastern Asia: Singapore
+        JWOE075:     Asia: South Eastern Asia: Thailand
+        JWOE076:     Asia: South Eastern Asia: Vietnam
+        JWOE077:     Asia: South Eastern Asia: Other South Eastern Asia
+        JWOE078:     Asia: Western Asia
+        JWOE079:     Asia: Western Asia: Iraq
+        JWOE080:     Asia: Western Asia: Israel
+        JWOE081:     Asia: Western Asia: Jordan
+        JWOE082:     Asia: Western Asia: Kuwait
+        JWOE083:     Asia: Western Asia: Lebanon
+        JWOE084:     Asia: Western Asia: Saudi Arabia
+        JWOE085:     Asia: Western Asia: Syria
+        JWOE086:     Asia: Western Asia: Yemen
+        JWOE087:     Asia: Western Asia: Turkey
+        JWOE088:     Asia: Western Asia: Armenia
+        JWOE089:     Asia: Western Asia: Other Western Asia
+        JWOE090:     Asia: Asia,n.e.c.
+        JWOE091:     Africa
+        JWOE092:     Africa: Eastern Africa
+        JWOE093:     Africa: Eastern Africa: Eritrea
+        JWOE094:     Africa: Eastern Africa: Ethiopia
+        JWOE095:     Africa: Eastern Africa: Kenya
+        JWOE096:     Africa: Eastern Africa: Other Eastern Africa
+        JWOE097:     Africa: Middle Africa
+        JWOE098:     Africa: Middle Africa: Cameroon
+        JWOE099:     Africa: Middle Africa: Other Middle Africa
+        JWOE100:     Africa: Northern Africa
+        JWOE101:     Africa: Northern Africa: Egypt
+        JWOE102:     Africa: Northern Africa: Morocco
+        JWOE103:     Africa: Northern Africa: Sudan
+        JWOE104:     Africa: Northern Africa: Other Northern Africa
+        JWOE105:     Africa: Southern Africa
+        JWOE106:     Africa: Southern Africa: South Africa
+        JWOE107:     Africa: Southern Africa: Other Southern Africa
+        JWOE108:     Africa: Western Africa
+        JWOE109:     Africa: Western Africa: Cape Verde
+        JWOE110:     Africa: Western Africa: Ghana
+        JWOE111:     Africa: Western Africa: Liberia
+        JWOE112:     Africa: Western Africa: Nigeria
+        JWOE113:     Africa: Western Africa: Sierra Leone
+        JWOE114:     Africa: Western Africa: Other Western Africa
+        JWOE115:     Africa: Africa, n.e.c.
+        JWOE116:     Oceania
+        JWOE117:     Oceania: Australia and New Zealand Subregion
+        JWOE118:     Oceania: Australia and New Zealand Subregion: Australia
+        JWOE119:     Oceania: Australia and New Zealand Subregion: Other Australian and New Zealand Subregion
+        JWOE120:     Oceania: Fiji
+        JWOE121:     Oceania: Oceania, n.e.c.
+        JWOE122:     Americas
+        JWOE123:     Americas: Latin America
+        JWOE124:     Americas: Latin America: Caribbean
+        JWOE125:     Americas: Latin America: Caribbean: Bahamas
+        JWOE126:     Americas: Latin America: Caribbean: Barbados
+        JWOE127:     Americas: Latin America: Caribbean: Cuba
+        JWOE128:     Americas: Latin America: Caribbean: Dominica
+        JWOE129:     Americas: Latin America: Caribbean: Dominican Republic
+        JWOE130:     Americas: Latin America: Caribbean: Grenada
+        JWOE131:     Americas: Latin America: Caribbean: Haiti
+        JWOE132:     Americas: Latin America: Caribbean: Jamaica
+        JWOE133:     Americas: Latin America: Caribbean: St. Vincent and the Grenadines
+        JWOE134:     Americas: Latin America: Caribbean: Trinidad and Tobago
+        JWOE135:     Americas: Latin America: Caribbean: West Indies
+        JWOE136:     Americas: Latin America: Caribbean: Other Caribbean
+        JWOE137:     Americas: Latin America: Central America
+        JWOE138:     Americas: Latin America: Central America: Mexico
+        JWOE139:     Americas: Latin America: Central America: Belize
+        JWOE140:     Americas: Latin America: Central America: Costa Rica
+        JWOE141:     Americas: Latin America: Central America: El Salvador
+        JWOE142:     Americas: Latin America: Central America: Guatemala
+        JWOE143:     Americas: Latin America: Central America: Honduras
+        JWOE144:     Americas: Latin America: Central America: Nicaragua
+        JWOE145:     Americas: Latin America: Central America: Panama
+        JWOE146:     Americas: Latin America: Central America: Other Central America
+        JWOE147:     Americas: Latin America: South America
+        JWOE148:     Americas: Latin America: South America: Argentina
+        JWOE149:     Americas: Latin America: South America: Bolivia
+        JWOE150:     Americas: Latin America: South America: Brazil
+        JWOE151:     Americas: Latin America: South America: Chile
+        JWOE152:     Americas: Latin America: South America: Colombia
+        JWOE153:     Americas: Latin America: South America: Ecuador
+        JWOE154:     Americas: Latin America: South America: Guyana
+        JWOE155:     Americas: Latin America: South America: Peru
+        JWOE156:     Americas: Latin America: South America: Uruguay
+        JWOE157:     Americas: Latin America: South America: Venezuela
+        JWOE158:     Americas: Latin America: South America: Other South America
+        JWOE159:     Americas: Northern America
+        JWOE160:     Americas: Northern America: Canada
+        JWOE161:     Americas: Northern America: Other Northern America
+ 
+    Table 3:     Nativity in the United States
+    Universe:    Total population in the United States
+    Source code: B05012
+    NHGIS code:  JWU
+        JWUE001:     Total
+        JWUE002:     Native
+        JWUE003:     Foreign-Born
+ 
+    Table 4:     Gini Index of Income Inequality
+    Universe:    Households
+    Source code: B19083
+    NHGIS code:  J4T
+        J4TE001:     Gini Index
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Place of Birth by Citizenship Status
+    Universe:    Total population
+    Source code: B05002
+    NHGIS code:  JWA
+        JWAM001:     Total
+        JWAM002:     Native
+        JWAM003:     Native: Born in state of residence
+        JWAM004:     Native: Born in other state in the United States
+        JWAM005:     Native: Born in other state in the United States: Northeast
+        JWAM006:     Native: Born in other state in the United States: Midwest
+        JWAM007:     Native: Born in other state in the United States: South
+        JWAM008:     Native: Born in other state in the United States: West
+        JWAM009:     Native: Born outside the United States
+        JWAM010:     Native: Born outside the United States: Puerto Rico
+        JWAM011:     Native: Born outside the United States: U.S. Island Areas
+        JWAM012:     Native: Born outside the United States: Born abroad of American parent(s)
+        JWAM013:     Foreign born
+        JWAM014:     Foreign born: Naturalized U.S. citizen
+        JWAM015:     Foreign born: Not a U.S. citizen
+ 
+    Table 2:     Place of Birth for the Foreign-Born Population in the United States
+    Universe:    Foreign-born population excluding population born at sea
+    Source code: B05006
+    NHGIS code:  JWO
+        JWOM001:     Total
+        JWOM002:     Europe
+        JWOM003:     Europe: Northern Europe
+        JWOM004:     Europe: Northern Europe: United Kingdom (inc. Crown Dependencies)
+        JWOM005:     Europe: Northern Europe: United Kingdom (inc. Crown Dependencies): United Kingdom, excluding England and Scotland
+        JWOM006:     Europe: Northern Europe: United Kingdom (inc. Crown Dependencies): England
+        JWOM007:     Europe: Northern Europe: United Kingdom (inc. Crown Dependencies): Scotland
+        JWOM008:     Europe: Northern Europe: Ireland
+        JWOM009:     Europe: Northern Europe: Denmark
+        JWOM010:     Europe: Northern Europe: Norway
+        JWOM011:     Europe: Northern Europe: Sweden
+        JWOM012:     Europe: Northern Europe: Other Northern Europe
+        JWOM013:     Europe: Western Europe
+        JWOM014:     Europe: Western Europe: Austria
+        JWOM015:     Europe: Western Europe: Belgium
+        JWOM016:     Europe: Western Europe: France
+        JWOM017:     Europe: Western Europe: Germany
+        JWOM018:     Europe: Western Europe: Netherlands
+        JWOM019:     Europe: Western Europe: Switzerland
+        JWOM020:     Europe: Western Europe: Other Western Europe
+        JWOM021:     Europe: Southern Europe
+        JWOM022:     Europe: Southern Europe: Greece
+        JWOM023:     Europe: Southern Europe: Italy
+        JWOM024:     Europe: Southern Europe: Portugal
+        JWOM025:     Europe: Southern Europe: Spain
+        JWOM026:     Europe: Southern Europe: Other Southern Europe
+        JWOM027:     Europe: Eastern Europe
+        JWOM028:     Europe: Eastern Europe: Albania
+        JWOM029:     Europe: Eastern Europe: Belarus
+        JWOM030:     Europe: Eastern Europe: Bulgaria
+        JWOM031:     Europe: Eastern Europe: Croatia
+        JWOM032:     Europe: Eastern Europe: Czechoslovakia (includes Czech Republic and Slovakia)
+        JWOM033:     Europe: Eastern Europe: Hungary
+        JWOM034:     Europe: Eastern Europe: Latvia
+        JWOM035:     Europe: Eastern Europe: Lithuania
+        JWOM036:     Europe: Eastern Europe: Macedonia
+        JWOM037:     Europe: Eastern Europe: Moldova
+        JWOM038:     Europe: Eastern Europe: Poland
+        JWOM039:     Europe: Eastern Europe: Romania
+        JWOM040:     Europe: Eastern Europe: Russia
+        JWOM041:     Europe: Eastern Europe: Ukraine
+        JWOM042:     Europe: Eastern Europe: Bosnia and Herzegovina
+        JWOM043:     Europe: Eastern Europe: Yugoslavia
+        JWOM044:     Europe: Eastern Europe: Yugoslavia: Serbia
+        JWOM045:     Europe: Eastern Europe: Other Eastern Europe
+        JWOM046:     Europe: Europe, n.e.c.
+        JWOM047:     Asia
+        JWOM048:     Asia: Eastern Asia
+        JWOM049:     Asia: Eastern Asia: China
+        JWOM050:     Asia: Eastern Asia: China: China, excluding Hong Kong and Taiwan
+        JWOM051:     Asia: Eastern Asia: China: Hong Kong
+        JWOM052:     Asia: Eastern Asia: China: Taiwan
+        JWOM053:     Asia: Eastern Asia: Japan
+        JWOM054:     Asia: Eastern Asia: Korea
+        JWOM055:     Asia: Eastern Asia: Other Eastern Asia
+        JWOM056:     Asia: South Central Asia
+        JWOM057:     Asia: South Central Asia: Afghanistan
+        JWOM058:     Asia: South Central Asia: Bangladesh
+        JWOM059:     Asia: South Central Asia: India
+        JWOM060:     Asia: South Central Asia: Iran
+        JWOM061:     Asia: South Central Asia: Kazakhstan
+        JWOM062:     Asia: South Central Asia: Nepal
+        JWOM063:     Asia: South Central Asia: Pakistan
+        JWOM064:     Asia: South Central Asia: Sri Lanka
+        JWOM065:     Asia: South Central Asia: Uzbekistan
+        JWOM066:     Asia: South Central Asia: Other South Central Asia
+        JWOM067:     Asia: South Eastern Asia
+        JWOM068:     Asia: South Eastern Asia: Cambodia
+        JWOM069:     Asia: South Eastern Asia: Indonesia
+        JWOM070:     Asia: South Eastern Asia: Laos
+        JWOM071:     Asia: South Eastern Asia: Malaysia
+        JWOM072:     Asia: South Eastern Asia: Burma
+        JWOM073:     Asia: South Eastern Asia: Philippines
+        JWOM074:     Asia: South Eastern Asia: Singapore
+        JWOM075:     Asia: South Eastern Asia: Thailand
+        JWOM076:     Asia: South Eastern Asia: Vietnam
+        JWOM077:     Asia: South Eastern Asia: Other South Eastern Asia
+        JWOM078:     Asia: Western Asia
+        JWOM079:     Asia: Western Asia: Iraq
+        JWOM080:     Asia: Western Asia: Israel
+        JWOM081:     Asia: Western Asia: Jordan
+        JWOM082:     Asia: Western Asia: Kuwait
+        JWOM083:     Asia: Western Asia: Lebanon
+        JWOM084:     Asia: Western Asia: Saudi Arabia
+        JWOM085:     Asia: Western Asia: Syria
+        JWOM086:     Asia: Western Asia: Yemen
+        JWOM087:     Asia: Western Asia: Turkey
+        JWOM088:     Asia: Western Asia: Armenia
+        JWOM089:     Asia: Western Asia: Other Western Asia
+        JWOM090:     Asia: Asia,n.e.c.
+        JWOM091:     Africa
+        JWOM092:     Africa: Eastern Africa
+        JWOM093:     Africa: Eastern Africa: Eritrea
+        JWOM094:     Africa: Eastern Africa: Ethiopia
+        JWOM095:     Africa: Eastern Africa: Kenya
+        JWOM096:     Africa: Eastern Africa: Other Eastern Africa
+        JWOM097:     Africa: Middle Africa
+        JWOM098:     Africa: Middle Africa: Cameroon
+        JWOM099:     Africa: Middle Africa: Other Middle Africa
+        JWOM100:     Africa: Northern Africa
+        JWOM101:     Africa: Northern Africa: Egypt
+        JWOM102:     Africa: Northern Africa: Morocco
+        JWOM103:     Africa: Northern Africa: Sudan
+        JWOM104:     Africa: Northern Africa: Other Northern Africa
+        JWOM105:     Africa: Southern Africa
+        JWOM106:     Africa: Southern Africa: South Africa
+        JWOM107:     Africa: Southern Africa: Other Southern Africa
+        JWOM108:     Africa: Western Africa
+        JWOM109:     Africa: Western Africa: Cape Verde
+        JWOM110:     Africa: Western Africa: Ghana
+        JWOM111:     Africa: Western Africa: Liberia
+        JWOM112:     Africa: Western Africa: Nigeria
+        JWOM113:     Africa: Western Africa: Sierra Leone
+        JWOM114:     Africa: Western Africa: Other Western Africa
+        JWOM115:     Africa: Africa, n.e.c.
+        JWOM116:     Oceania
+        JWOM117:     Oceania: Australia and New Zealand Subregion
+        JWOM118:     Oceania: Australia and New Zealand Subregion: Australia
+        JWOM119:     Oceania: Australia and New Zealand Subregion: Other Australian and New Zealand Subregion
+        JWOM120:     Oceania: Fiji
+        JWOM121:     Oceania: Oceania, n.e.c.
+        JWOM122:     Americas
+        JWOM123:     Americas: Latin America
+        JWOM124:     Americas: Latin America: Caribbean
+        JWOM125:     Americas: Latin America: Caribbean: Bahamas
+        JWOM126:     Americas: Latin America: Caribbean: Barbados
+        JWOM127:     Americas: Latin America: Caribbean: Cuba
+        JWOM128:     Americas: Latin America: Caribbean: Dominica
+        JWOM129:     Americas: Latin America: Caribbean: Dominican Republic
+        JWOM130:     Americas: Latin America: Caribbean: Grenada
+        JWOM131:     Americas: Latin America: Caribbean: Haiti
+        JWOM132:     Americas: Latin America: Caribbean: Jamaica
+        JWOM133:     Americas: Latin America: Caribbean: St. Vincent and the Grenadines
+        JWOM134:     Americas: Latin America: Caribbean: Trinidad and Tobago
+        JWOM135:     Americas: Latin America: Caribbean: West Indies
+        JWOM136:     Americas: Latin America: Caribbean: Other Caribbean
+        JWOM137:     Americas: Latin America: Central America
+        JWOM138:     Americas: Latin America: Central America: Mexico
+        JWOM139:     Americas: Latin America: Central America: Belize
+        JWOM140:     Americas: Latin America: Central America: Costa Rica
+        JWOM141:     Americas: Latin America: Central America: El Salvador
+        JWOM142:     Americas: Latin America: Central America: Guatemala
+        JWOM143:     Americas: Latin America: Central America: Honduras
+        JWOM144:     Americas: Latin America: Central America: Nicaragua
+        JWOM145:     Americas: Latin America: Central America: Panama
+        JWOM146:     Americas: Latin America: Central America: Other Central America
+        JWOM147:     Americas: Latin America: South America
+        JWOM148:     Americas: Latin America: South America: Argentina
+        JWOM149:     Americas: Latin America: South America: Bolivia
+        JWOM150:     Americas: Latin America: South America: Brazil
+        JWOM151:     Americas: Latin America: South America: Chile
+        JWOM152:     Americas: Latin America: South America: Colombia
+        JWOM153:     Americas: Latin America: South America: Ecuador
+        JWOM154:     Americas: Latin America: South America: Guyana
+        JWOM155:     Americas: Latin America: South America: Peru
+        JWOM156:     Americas: Latin America: South America: Uruguay
+        JWOM157:     Americas: Latin America: South America: Venezuela
+        JWOM158:     Americas: Latin America: South America: Other South America
+        JWOM159:     Americas: Northern America
+        JWOM160:     Americas: Northern America: Canada
+        JWOM161:     Americas: Northern America: Other Northern America
+ 
+    Table 3:     Nativity in the United States
+    Universe:    Total population in the United States
+    Source code: B05012
+    NHGIS code:  JWU
+        JWUM001:     Total
+        JWUM002:     Native
+        JWUM003:     Foreign-Born
+ 
+    Table 4:     Gini Index of Income Inequality
+    Universe:    Households
+    Source code: B19083
+    NHGIS code:  J4T
+        J4TM001:     Gini Index
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, and Steven Ruggles. 
+        IPUMS National Historical Geographic Information System: Version 14.0 
+        [Database]. Minneapolis, MN: IPUMS. 2019. 
+        http://doi.org/10.18128/D050.V14.0
+
+    * Publications and research reports employing school attendance areas data 
+      (either tabular or GIS) must cite it appropriately. The citation should 
+      include the following:
+
+        The College of William and Mary and the Minnesota Population Center.
+        School Attendance Boundary Information System (SABINS): Version 1.0.
+        Minneapolis, MN: University of Minnesota 2011.
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+    * If possible, citations involving school attendance areas should also include
+      the URL for the SABINS site:
+
+        http://www.sabinsdata.org/.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
