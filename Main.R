@@ -168,9 +168,6 @@ plot(County_Merge_fil$IncomeIneq,County_Merge_fil$ConfirmedPer10K)
 myvars <- c("ConfirmedPer10K", "IncomeIneq")
 newdata <- County_Merge_fil[myvars]
 
-
-
-
 model <- lm(formula = ConfirmedPer10K ~ IncomeIneq, data = newdata)
 model2 <-glm(formula = ConfirmedPer10K ~ IncomeIneq, data = newdata, family = poisson)
 new.ineq <- data.frame(
@@ -286,6 +283,7 @@ library(stringr)
 library(reshape2)
 library(dplyr)
 library(stringr)
+str(fips_ma)
 
 CreateFips = function() {
   for (row in 1:nrow(ga_data2)) {
@@ -322,17 +320,25 @@ ga_data2$county <- gsub(paste0(stopwords,collapse = "|"),"", ga_data2$county)
 ga_data2$county <- trimws(ga_data2$county)
 CreateFips() #function now work run manually
 ##full data now has
-full_data<-ga_data2[complete.cases(ga_data2), ]
-full_data<-full_data[!(is.na(full_data$county) | full_data$county==""), ]
+str(ga_data2)
+#full_data<-ga_data2[complete.cases(ga_data2), ]
+full_data<-ga_data2[!(is.na(ga_data2$county) | ga_data2$county==""), ]
 # Split dataframe by city
 split_df <- split(full_data, list(full_data$date))
-#write.csv(ga_data2,paste0("",unique(ga_data2$date),".csv"),row.names=FALSE)
+
 # Write out separate CSV for each city
+
 for (date in names(split_df)) {
-  write.csv(split_df[[date]], paste0("./Data/ga/",date, ".csv"))
+  write.csv(split_df[[date]],row.names = FALSE ,paste0("./Data/ga/",date, ".csv"))
 }
-
-
-
-
+health_data <- read.csv("./data/2020Health.csv", as.is=TRUE)
+health_data_compact<-health_data[ , c("FIPS", "County","p_Fair.or.Poor.Health","Primary.Care.Physicians.Rate","p_Smokers",
+                                      "Preventable.Hospitalization.Rate","p_Adults.with.Obesity",
+                                      "p_Vaccinated","High.School.Graduation.Rate","Social.Association.Rate","p_Uninsured")] 
+health_data_compact$fips<-health_data_compact$FIPS
+health_data_compact$FIPS<-NULL
+fips_out2<-merge(x=fips_out,y=health_data_compact,by="fips",all.x=TRUE)
+fips_out2$County<-fips_out2$County.x
+fips_out2$County.x<-NULL
+write.csv(fips_out2,'county_fips_revised.csv')
 
